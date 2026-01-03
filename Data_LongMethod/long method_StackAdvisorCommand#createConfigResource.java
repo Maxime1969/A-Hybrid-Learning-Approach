@@ -1,0 +1,1 @@
+  private ResourceInstance createHostResource() {    Map<Resource.Type, String> mapIds = new HashMap<>();    return createResource(Resource.Type.Host, mapIds);  }  private ResourceInstance createConfigResource() {    Map<Resource.Type, String> mapIds = new HashMap<>();

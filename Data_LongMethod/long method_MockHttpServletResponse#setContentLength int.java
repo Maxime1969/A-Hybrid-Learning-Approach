@@ -1,0 +1,1 @@
+	@Override	public String getContentType()	{		return getHeader("Content-Type");	}

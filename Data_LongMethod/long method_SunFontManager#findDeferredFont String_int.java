@@ -1,0 +1,1 @@
+                /* Probably shouldn't happen, but just in case */                initialisedFonts.put(fileNameKey, FONT_HANDLE_NULL);            } else {                physicalFont = (PhysicalFont)(handle.font2D);            }        }        return physicalFont;    }

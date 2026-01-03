@@ -1,0 +1,1 @@
+    @Override    public Stream<E> stream() {      synchronized (mutex) {        return delegate().stream();      }    }

@@ -1,0 +1,1 @@
+    */   private Vote vote(SimpleString handler, Vote vote) {      QuorumVoteHandler quorumVoteHandler = handlers.get(handler);      return quorumVoteHandler.vote(vote);   }

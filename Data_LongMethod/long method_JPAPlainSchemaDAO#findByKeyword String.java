@@ -1,0 +1,1 @@
+    public List<PlainSchema> findByValidator(final Implementation validator) {        TypedQuery<PlainSchema> query = entityManager().createQuery(                "SELECT e FROM " + JPAPlainSchema.class.getSimpleName()                + " e WHERE e.validator=:validator", PlainSchema.class);        query.setParameter("validator", validator);        return query.getResultList();    }

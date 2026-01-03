@@ -1,0 +1,1 @@
+      @Override      public Adapter caseTransition(Transition object)      {        return createTransitionAdapter();      }

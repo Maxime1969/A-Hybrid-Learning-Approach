@@ -1,0 +1,1 @@
+        public void notifyDeactivated() {        resetResults();                if (resetter != null) {            resetter.controller = null;            resetter = null;        }                if (ui != null) {            ui.cleanup();            ui = null;        }                settingsUI = null;    }        

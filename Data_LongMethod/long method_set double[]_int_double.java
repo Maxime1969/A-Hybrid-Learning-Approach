@@ -1,0 +1,1 @@
+    private ArrayUtils() {}    @SuppressWarnings("unchecked")    public static <T> T[] newInstance(@Nonnull final T[] a, @Nonnegative final int newLength) {        return (T[]) newInstance(a.getClass(), newLength);    }

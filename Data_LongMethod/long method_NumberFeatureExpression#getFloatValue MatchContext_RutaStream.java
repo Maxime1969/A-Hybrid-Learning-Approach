@@ -1,0 +1,1 @@
+  @Override  public float getFloatValue(MatchContext context, RutaStream stream) {    Number v = this.getNumberValue(context, stream);    return v == null ? 0 : v.floatValue();  }

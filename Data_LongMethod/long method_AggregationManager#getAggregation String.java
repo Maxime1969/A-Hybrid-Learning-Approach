@@ -1,0 +1,1 @@
+	 * @param aggrFunc	 */	public AggrFunctionWrapper(IAggregation aggrFunc) {		this.aggrFunc = aggrFunc;	}

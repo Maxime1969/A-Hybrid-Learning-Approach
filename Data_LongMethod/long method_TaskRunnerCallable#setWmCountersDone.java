@@ -1,0 +1,1 @@
+  public void setIsGuaranteed(boolean isGuaranteed) {    this.isGuaranteed = isGuaranteed;    if (amNodeInfo != null) {      amNodeInfo.updateTaskAttempt(taskSpec.getTaskAttemptID(), isGuaranteed);    }

@@ -1,0 +1,1 @@
+  public Object[] getElements(Object inputElement) {        if  (inputElement instanceof HashMap) {      return ((HashMap)inputElement).values().toArray();    }    return null;  }

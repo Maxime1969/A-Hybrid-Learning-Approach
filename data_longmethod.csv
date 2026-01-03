@@ -1,0 +1,1078 @@
+Id,Sample_id,File_name,Default,Type,Severity,Label
+1,2024001,long method_LinearDumper#addUTF8Region StructurePointer|String|String|AbstractPointer.java,long method,function,minor,1
+2,2024002,long method_JdbcStatement#executeUpdate String.java,long method,function,minor,1
+3,2024003,long method_AbstractFOPImageElementBridge#createImageGraphicsNode BridgeContext|Element|ParsedURL.java,long method,function,major,1
+4,2024004,long method_reconfigureNetworking.java,long method,function,major,1
+5,2024005,long method_RoyaleLibPropertiesHandler#startElement String|String|String|Attributes.java,long method,function,minor,1
+6,2024006,long method_DseTypeSyntaxChecker#isValidSyntax Object.java,long method,function,major,1
+7,2024007,long method_UnsafeIntegerFieldAccessorImpl#set Object|Object.java,long method,function,minor,1
+8,2024008,long method_LocationCacheManager#findServicesByToolID String.java,long method,function,minor,1
+9,2024009,long method_PathParser#validateArrayStep String.java,long method,function,major,1
+10,20240010,long method_OdbcRequestHandler#doHandle OdbcRequest.java,long method,function,minor,1
+11,20240011,long method_MailManager#processEmail EmailData.java,long method,function,minor,1
+12,20240012,long method_InternalCrossReferenceProposalTestLanguageLexer#mRULE_ML_COMMENT.java,long method,function,minor,1
+13,20240013,long method_VersioningFileProvider#getPageInfo String|int.java,long method,function,major,1
+14,20240014,long method_RegistryServerHandler#updateExperiment String|ExperimentModel.java,long method,function,major,1
+15,20240015,long method_parse Reader|EventLoggerProvider.java,long method,function,critical,1
+16,20240016,long method_HttpClientTransaction#writeTransactionResponse ResponseCode|String.java,long method,function,major,1
+17,20240017,long method_AffirmativeBased#decide Authentication|Object|Collection<ConfigAttribute>.java,long method,function,minor,1
+18,20240018,long method_weaveDir File|String|String|String.java,long method,function,major,1
+19,20240019,long method_DupsCursor#afterValue K|V.java,long method,function,minor,1
+20,20240020,long method_MasterDetailsPairTester#checkAlternativeConstructor.java,long method,function,minor,1
+21,20240021,long method_ChunkStepController#positionWriterAtCheckpoint.java,long method,function,minor,1
+22,20240022,long method_TimedElement#removeInstanceTime InstanceTime|boolean.java,long method,function,minor,1
+23,20240023,long method_SequenceTypeMatcher#matchesAllInstances SequenceType.java,long method,function,minor,1
+24,20240024,long method_stringToClass String.java,long method,function,minor,1
+25,20240025,long method_initialize.java,long method,function,minor,1
+26,20240026,long method_XMLSchemaLoader#reset XMLComponentManager.java,long method,function,major,1
+27,20240027,long method_negate DimFilter.java,long method,function,minor,1
+28,20240028,long method_MethodWriter#resizeInstructions.java,long method,function,critical,1
+29,20240029,long method_LineSeriesMarkerSheet#createButtonGroup Group.java,long method,function,minor,1
+30,20240030,long method_H2ResultSetIterator#fetchNext.java,long method,function,minor,1
+31,20240031,long method_ConvertCompoundGraph#visit DirectedGraph.java,long method,function,minor,1
+32,20240032,long method_typeCheckMethodsWithGenerics ClassNode|ClassNode[]|MethodNode.java,long method,function,minor,1
+33,20240033,long method_ReflectivePropertyAccessor#read EvaluationContext|Object|String.java,long method,function,major,1
+34,20240034,long method_OfflineImageReconstructor#expectTag String|boolean.java,long method,function,minor,1
+35,20240035,long method_JdbcSQLContentAssistProcessor#getRelevantProposals ITextViewer|int.java,long method,function,minor,1
+36,20240036,long method_IndexIO#validateTwoSegments IndexableAdapter|IndexableAdapter.java,long method,function,minor,1
+37,20240037,long method_GoalViolationDetector#optimizeForGoal ClusterModel|Goal|GoalViolations|Set<Integer>|Set<Integer>.java,long method,function,minor,1
+38,20240038,long method_BrokerImpl#refreshInternal Collection|OpCallbacks.java,long method,function,major,1
+39,20240039,long method_AttributeMap#internalRemoveNamedItemNS String|String|boolean.java,long method,function,major,1
+40,20240040,long method_DefaultSentryAccessController#grantOrRevokeRoleOnGroup List<HivePrincipal>|List<String>|HivePrincipal|boolean.java,long method,function,minor,1
+41,20240041,long method_WindowController#increaseConnectionWindow int.java,long method,function,minor,1
+42,20240042,long method_IndexFocusTraversalPolicy#getNextComponent Container|Component|FocusTraversalDirection.java,long method,function,major,1
+43,20240043,long method_Handler#startElement String|String|String|Attributes.java,long method,function,major,1
+44,20240044,long method_TypeList#asTuple.java,long method,function,major,1
+45,20240045,long method_AbstractKuduOutputOperator#performCommonProcessing Operation|KuduExecutionContext.java,long method,function,major,1
+46,20240046,long method_BlockCommand#doExecute.java,long method,function,major,1
+47,20240047,long method_BasicTask#get Duration.java,long method,function,minor,1
+48,20240048,long method_AddImageStoreS3CMD#execute.java,long method,function,major,1
+49,20240049,long method_InternalXImportSectionTestLangLexer#mRULE_STRING.java,long method,function,major,1
+50,20240050,long method_PigServer PigContext|boolean.java,long method,function,major,1
+51,20240051,long method_getFacilityContactMechValueMaps Delegator|String|boolean|String.java,long method,function,major,1
+52,20240052,long method_TListSentryPrivilegesRequest#equals TListSentryPrivilegesRequest.java,long method,function,minor,1
+53,20240053,long method_StackMapWriter#setStackMap StackMapTable_attribute.java,long method,function,minor,1
+54,20240054,long method_CK_ECDH1_DERIVE_PARAMS#toString.java,long method,function,minor,1
+55,20240055,long method_TemplateManager#listLanguages PageContext.java,long method,function,minor,1
+56,20240056,long method_ResourceManagerImpl#discoverHosts AddHostCmd.java,long method,function,minor,1
+57,20240057,long method_ProjectRecordBatch#handleRemainder.java,long method,function,minor,1
+58,20240058,long method_InternalXbaseParser#ruleXOtherOperatorExpression.java,long method,function,major,1
+59,20240059,long method_AriesJaxrsServiceRuntime#buildApplicationDTO ApplicationRuntimeInformation.java,long method,function,major,1
+60,20240060,long method_#extractDataAndSave IBatchDAO.java,long method,function,major,1
+61,20240061,long method_HMSHandler#alterTableStatsForTruncate RawStore|String|String|String|Table|List<String>|String|long.java,long method,function,minor,1
+62,20240062,long method_CancellationObserver#monitorUntil ActiveAnnotationContext|CancelIndicator|Function0<? extends Boolean>.java,long method,function,minor,1
+63,20240063,long method_MultiplexingChannelSelector#configure Context.java,long method,function,major,1
+64,20240064,long method_JPEGImageMetadataFormat.java,long method,function,major,1
+65,20240065,long method_CeylonEnter#main List<JCCompilationUnit>.java,long method,function,major,1
+66,20240066,long method_SubqueryNode#preprocess int|FromList|SubqueryList|PredicateList.java,long method,function,critical,1
+67,20240067,long method_AmbariManagementControllerImpl#verifyRepository RepositoryRequest.java,long method,function,major,1
+68,20240068,long method_InjectOnMemberAndConstructor#matchClass ClassTree|VisitorState.java,long method,function,major,1
+69,20240069,long method_copyDirectory File|File.java,long method,function,minor,1
+70,20240070,long method_BookmarkDao#loadBookmarkItemsByBookmarkIds Collection<Long>.java,long method,function,minor,1
+71,20240071,long method_SchemaEntityFactory#classLoadComparator SchemaManager|String|String|Attribute.java,long method,function,major,1
+72,20240072,long method_Seeker#addManualRecord Airing|UIClient.java,long method,function,critical,1
+73,20240073,long method_UrlMappingHyperlinkDetector#findLinkComponentsInClosure ClosureExpression|int.java,long method,function,critical,1
+74,20240074,long method_AbstractBooleanCredentialsStrategy#validate ValidationContext|CredentialsStrategy.java,long method,function,minor,1
+75,20240075,long method_evaluateImpl Object|Object.java,long method,function,minor,1
+76,20240076,long method_SingleHopQuarterPartitionResolver#getRoutingObject EntryOperation.java,long method,function,minor,1
+77,20240077,long method_SupervisorInfo#toString.java,long method,function,major,1
+78,20240078,long method_VectorPTFOperator#setupOverflowBatch.java,long method,function,minor,1
+79,20240079,long method_TezBucketJoinAlgorithm#getCost HiveJoin.java,long method,function,major,1
+80,20240080,long method_Xtext2EcoreTransformer#deriveTypeHierarchyFromOverridden ParserRule|Grammar.java,long method,function,major,1
+81,20240081,long method_SynchronousMessageStoreRecoverer#recover QueueManagingVirtualHost<?>.java,long method,function,critical,1
+82,20240082,long method_RunMojo#addRelevantPluginDependenciesToClasspath Set<URL>.java,long method,function,minor,1
+83,20240083,long method_MainActivity#onCreate Bundle.java,long method,function,major,1
+84,20240084,long method_KinesisVideoRekognitionLambdaExample#processSingleRecord Record.java,long method,function,major,1
+85,20240085,long method_InternalXtextGrammarTestLanguageParser#rule__Action__OperatorAssignment_2_2.java,long method,function,minor,1
+86,20240086,long method_InternalEntitiesParser#entryRuleXMultiplicativeExpression.java,long method,function,minor,1
+87,20240087,long method_OpaqueCopyArgbToAny#Blit SurfaceData|SurfaceData|Composite|Region|int|int|int|int|int|int.java,long method,function,major,1
+88,20240088,long method_IncrementalTableBackupClient#handleBulkLoad List<TableName>.java,long method,function,minor,1
+89,20240089,long method_decodeUrl byte[].java,long method,function,minor,1
+90,20240090,long method_BaseAggregateIT#testGroupByOrderPreservingDescSort.java,long method,function,major,1
+91,20240091,long method_DocletInvoker#invoke String|Object|Class<?>[]|Object[].java,long method,function,major,1
+92,20240092,long method_DFA60#specialStateTransition int|IntStream.java,long method,function,major,1
+93,20240093,long method_CurrentLiveVersion ReloadableType|String|byte[].java,long method,function,minor,1
+94,20240094,long method_VersionedStatsRegionEntryOffHeapIntKey#setVersions VersionTag.java,long method,function,minor,1
+95,20240095,long method_characterSet String|int|int.java,long method,function,minor,1
+96,20240096,long method_FailoverProviderFactory#createProvider URI|ProviderFutureFactory.java,long method,function,minor,1
+97,20240097,long method_VariablePage#buildContent.java,long method,function,minor,1
+98,20240098,long method_SMBMapJoinOperator#initializeOp Configuration.java,long method,function,major,1
+99,20240099,long method_SamplerDeserializer#deserialize JsonParser|DeserializationContext.java,long method,function,major,1
+100,202400100,long method_getOatFileInstructionSet File.java,long method,function,minor,1
+101,202400101,long method_findClassLoader.java,long method,function,minor,1
+102,202400102,long method_forType Type|TypeProvider|VariableResolver.java,long method,function,minor,1
+103,202400103,long method_ARMSmlsdTranslator#translateCore ITranslationEnvironment|IInstruction|List<ReilInstruction>.java,long method,function,major,1
+104,202400104,long method_X509CertInfo#toString.java,long method,function,minor,1
+105,202400105,long method_ProjectsMenuListener#createAction ProjectInfo|TeamConfiguration.java,long method,function,major,1
+106,202400106,long method_ExtractMediaMetadata#tika_parse InputStream|String|Integer|Integer.java,long method,function,major,1
+107,202400107,long method_ColumnSetup#computeTableUnit PercentBaseContext|int.java,long method,function,minor,1
+108,202400108,long method_TypedDescendantIterator#next.java,long method,function,minor,1
+109,202400109,long method_doRawReceiveFile File|int|InputStream.java,long method,function,minor,1
+110,202400110,long method_ServerView#getColumnText Object|int.java,long method,function,minor,1
+111,202400111,long method_SearchRequestImpl#hashCode.java,long method,function,major,1
+112,202400112,long method_SLACalculatorMemory#reloadExpectedTimeAndConfig SLACalcStatus.java,long method,function,minor,1
+113,202400113,long method_JobHistoryZKStateManager#resetApplications.java,long method,function,minor,1
+114,202400114,long method_TreeNodeChildren TreeNode|Object|PropertyAccessor.java,long method,function,minor,1
+115,202400115,long method_shortenDbName String|int.java,long method,function,major,1
+116,202400116,long method_ResourceType|Boolean|String.java,long method,function,major,1
+117,202400117,long method_Oplog#recoverDrf OplogEntryIdSet|boolean|boolean.java,long method,function,major,1
+118,202400118,long method_OpenFont#readFont FontFileReader|String|String.java,long method,function,minor,1
+119,202400119,long method_NativeKeyHolder P11Key|long|Session|boolean|boolean.java,long method,function,major,1
+120,202400120,long method_AuditRulesCommand#runWithoutHelp CommandRunnerParams.java,long method,function,critical,1
+121,202400121,long method_findEditorByConvention Class<?>.java,long method,function,critical,1
+122,202400122,long method_DBDictionary#toBulkOperation ClassMapping|Select|JDBCStore|Object[]|Map.java,long method,function,critical,1
+123,202400123,long method_DataCreator#createETStreamOnComplexProp Edm|OData.java,long method,function,critical,1
+124,202400124,long method_TopNHash#tryStoreVectorizedKey HiveKey|boolean|int.java,long method,function,major,1
+125,202400125,long method_AgentsThread#run.java,long method,function,major,1
+126,202400126,long method_TSWAHyperlinkBuilder#formatQueryString String|String[].java,long method,function,minor,1
+127,202400127,long method_SharedEntityManagerInvocationHandler#invoke Object|Method|Object[].java,long method,function,major,1
+128,202400128,long method_AbstractUITestApplication#getApplicationToRun String[].java,long method,function,minor,1
+129,202400129,long method_BindStatus RequestContext|String|boolean.java,long method,function,major,1
+130,202400130,long method_ELParser#DynamicExpression.java,long method,function,minor,1
+131,202400131,long method_JsonGenerator LogIterator.java,long method,function,critical,1
+132,202400132,long method_LogManager#getOrderedLogFileIds.java,long method,function,critical,1
+133,202400133,long method_WindowsInternalFrameTitlePane#paintComponent Graphics.java,long method,function,major,1
+134,202400134,long method_SmapGenVisitor#doSmapText Node.java,long method,function,minor,1
+135,202400135,long method_ProductCrawler#crawl File.java,long method,function,major,1
+136,202400136,long method_normalizePath String.java,long method,function,critical,1
+137,202400137,long method_getIP.java,long method,function,minor,1
+138,202400138,long method_DtoFactory#createSystemDiagnosticsDto SystemDiagnostics.java,long method,function,major,1
+139,202400139,long method_AbstractFailureDetector#checkHealth.java,long method,function,minor,1
+140,202400140,long method_ServerDBSyncImpl#syncAll short.java,long method,function,major,1
+141,202400141,long method_ProductCategoryUsageSimulator double|double|double|SeedFactory.java,long method,function,none,0
+142,202400142,long method_BasicPolicyConfiguration#open boolean.java,long method,function,none,0
+143,202400143,long method_CryptoAdmin#run String[].java,long method,function,none,0
+144,202400144,long method_Options#get String|T.java,long method,function,none,0
+145,202400145,long method_SynchronizedCollection#forEach Consumer<? super E>.java,long method,function,none,0
+146,202400146,long method_CNode#setKeyComparator Class<? extends WritableComparator>.java,long method,function,none,0
+147,202400147,long method_EffectiveNodeTypeImpl#getMandatoryQPropertyDefinitions.java,long method,function,none,0
+148,202400148,long method_SlotID ResourceID|int.java,long method,function,none,0
+149,202400149,long method_SunZodiacCalc#getZodiac Calendar.java,long method,function,none,0
+150,202400150,long method_StacksService#createStackVersionResource String|String.java,long method,function,none,0
+151,202400151,long method_findDeclaredMethod Class<?>|String|Class<?>.java,long method,function,none,0
+152,202400152,long method_TProtocol|list_roles_privileges_result.java,long method,function,none,0
+153,202400153,long method_FencedFeedbackPanel#onReAdd.java,long method,function,none,0
+154,202400154,long method_validateArguments int|int.java,long method,function,none,0
+155,202400155,long method_SubjectService#list.java,long method,function,none,0
+156,202400156,long method_Builder|boolean.java,long method,function,none,0
+157,202400157,long method_getMetaImage Vector<Object>.java,long method,function,none,0
+158,202400158,long method_Builder#buildAddress ASTaddress|DecodeMonitor.java,long method,function,none,0
+159,202400159,long method_getAttributeAsInteger Element|String.java,long method,function,none,0
+160,202400160,long method_HDFSTextSerializer#getKey Event.java,long method,function,none,0
+161,202400161,long method_IgniteIoTestMessage#onBeforeWrite.java,long method,function,none,0
+162,202400162,long method_MergeTopN#execute Tuple|Object|TimeWindow.java,long method,function,none,0
+163,202400163,long method_PathFileObject#getCharContent boolean.java,long method,function,none,0
+164,202400164,long method_ObjIdMap#rehash Entry[]|int|int.java,long method,function,none,0
+165,202400165,long method_UnaryArithmeticOperatorNode#bindSQRTABS.java,long method,function,none,0
+166,202400166,long method_HTTP|Dest|String.java,long method,function,none,0
+167,202400167,long method_MXMLClassReferenceNodeBase#getEventSpecifierNode String.java,long method,function,none,0
+168,202400168,long method_FileAttachmentsControl#fillMenuBeforeShow IMenuManager.java,long method,function,none,0
+169,202400169,long method_FileMonitor#createDaemonGroup.java,long method,function,none,0
+170,202400170,long method_Asn1Eoc#toString.java,long method,function,none,0
+171,202400171,long method_DomainClass#gspFolderName.java,long method,function,none,0
+172,202400172,long method_GrailsConsoleLineTracker#isGrailsLaunch ILaunchConfiguration.java,long method,function,none,0
+173,202400173,long method_GroomServer#removeTaskFromJob BSPJobID|TaskInProgress.java,long method,function,none,0
+174,202400174,long method_DataSourceAction#notifyCannotPerform.java,long method,function,none,0
+175,202400175,long method_BaseMonitor#getServiceType Object.java,long method,function,none,0
+176,202400176,long method_SqlManager#getColumnInfoForQuery String.java,long method,function,none,0
+177,202400177,long method_HeaderMap Bucket[]|byte[]|int|int.java,long method,function,none,0
+178,202400178,long method_NodeValueIterator#reset.java,long method,function,none,0
+179,202400179,long method_Codec#decode UaDecoder.java,long method,function,none,0
+180,202400180,long method_SegmentCheckpointMBean#releaseCheckpoint String.java,long method,function,none,0
+181,202400181,long method_valueOfIgnoreCase String.java,long method,function,none,0
+182,202400182,long method_CssLicenseHeaderHandler#getSuffixes.java,long method,function,none,0
+183,202400183,long method_ValidatorImpl#validateParameters T|Method|Object[]|Class<?>.java,long method,function,none,0
+184,202400184,long method_UDFXPathString#evaluate String|String.java,long method,function,none,0
+185,202400185,long method_GradleRunnable#run IProgressMonitor.java,long method,function,none,0
+186,202400186,long method_ShadowAccessibilityNodeInfo#getChildCount.java,long method,function,none,0
+187,202400187,long method_using TestSortedSetGenerator<E>.java,long method,function,none,0
+188,202400188,long method_Cost#compareTo Cost.java,long method,function,none,0
+189,202400189,long method_toFrameworkID ByteBuffer.java,long method,function,none,0
+190,202400190,long method_SharePointADAuthority#viewConfiguration IThreadContext|IHTTPOutput|Locale|ConfigParams.java,long method,function,none,0
+191,202400191,long method_SequenceSet#add Sequence.java,long method,function,none,0
+192,202400192,long method_MatrixStyle#getProperty String.java,long method,function,none,0
+193,202400193,long method_BODY#$onclick String.java,long method,function,none,0
+194,202400194,long method_XbaseWithAnnotationsProposalProvider#getRawReturnType JvmOperation.java,long method,function,none,0
+195,202400195,long method_WikiContext#setRealPage WikiPage.java,long method,function,none,0
+196,202400196,long method_Traversalor#checkValid.java,long method,function,none,0
+197,202400197,long method_toAsset2 Asset.java,long method,function,none,0
+198,202400198,long method_TimeoutFuture#pendingToString.java,long method,function,none,0
+199,202400199,long method_StateMgrBase#sync.java,long method,function,none,0
+200,202400200,long method_SchedulerApplicationAttempt#compareInputOrderTo SchedulableEntity.java,long method,function,none,0
+201,202400201,long method_Rdn#hashCode.java,long method,function,none,0
+202,202400202,long method_RangerUsernamePasswordAuthenticationFilter#setRememberMeServices RememberMeServices.java,long method,function,none,0
+203,202400203,long method_PropertySpecifier String.java,long method,function,none,0
+204,202400204,long method_Property#setDefaultValue String.java,long method,function,none,0
+205,202400205,long method_PreOrderOnceWalker#walk Node.java,long method,function,none,0
+206,202400206,long method_Popup#show.java,long method,function,none,0
+207,202400207,long method_parseCalendarDefaultParse String.java,long method,function,none,0
+208,202400208,long method_OpenSslJnaCryptoRandom#nextBytes byte[].java,long method,function,none,0
+209,202400209,long method_newInstance LegendData.java,long method,function,none,0
+210,202400210,long method_MyBindingImpl#eIsSet int.java,long method,function,none,0
+211,202400211,long method_ModelChangeStructureDataType#toString.java,long method,function,none,0
+212,202400212,long method_MessageCounter#resetHistory.java,long method,function,none,0
+213,202400213,long method_Matcher#toString.java,long method,function,none,0
+214,202400214,long method_MainActivity#onDestroy.java,long method,function,none,0
+215,202400215,long method_isSignedFloat String.java,long method,function,none,0
+216,202400216,long method_InternalIntIterator#hasNext.java,long method,function,none,0
+217,202400217,long method_InternalBacktrackingContentAssistTestLanguageParser#synpred87_InternalBacktrackingContentAssistTestLanguage.java,long method,function,none,0
+218,202400218,long method_ImmutableTablePropertiesIT#testImmutableKeywordAndProperty.java,long method,function,none,0
+219,202400219,long method_getTableKeyFromFullName String.java,long method,function,none,0
+220,202400220,long method_FunctionsBase#downloadFunction String.java,long method,function,none,0
+221,202400221,long method_FlowBuilder#build.java,long method,function,none,0
+222,202400222,long method_FilePackageInfo#hasClasses.java,long method,function,none,0
+223,202400223,long method_extractErrorMessage Throwable.java,long method,function,none,0
+224,202400224,long method_Environment#isSQLDateAndTimeTimeZoneSameAsNormal.java,long method,function,none,0
+225,202400225,long method_Directories#getLocationForDisk DataDirectory.java,long method,function,none,0
+226,202400226,long method_DAGCommitStartedEvent#toSummaryProtoStream OutputStream.java,long method,function,none,0
+227,202400227,long method_CreateFileThread#finishUp.java,long method,function,none,0
+228,202400228,long method_ConvertingCursor#open.java,long method,function,none,0
+229,202400229,long method_closeStream Channel.java,long method,function,none,0
+230,202400230,long method_Builder#connection Connection.java,long method,function,none,0
+231,202400231,long method_Builder#backendName String.java,long method,function,none,0
+232,202400232,long method_BufferedCanvasComponent#setBufferType int.java,long method,function,none,0
+233,202400233,long method_AFPData#clone.java,long method,function,none,0
+234,202400234,long method_addSSHCredential_result#getFieldValue _Fields.java,long method,function,none,0
+235,202400235,long method_ActionDialog#isPermissionErrorMessage Throwable.java,long method,function,none,0
+236,202400236,long method_AbstractVirtualHost#validateNodeAutoCreationPolicy NodeAutoCreationPolicy.java,long method,function,none,0
+237,202400237,long method_AbstractLinearTransform#clone.java,long method,function,none,0
+238,202400238,long method_AbstractExecution#setIgnoreDepartedMembers boolean.java,long method,function,none,0
+239,202400239,long method_XRCompositeManager#XRCompositeRectangles XRSurfaceData|GrowableRectArray.java,long method,function,none,0
+240,202400240,long method_TimestampExtractTransform#expand PCollection<InputT>.java,long method,function,none,0
+241,202400241,long method_ThreadSingletonServiceImpl#threadSingletonServiceAdded ComponentAdded<ThreadSingletonService>.java,long method,function,none,0
+242,202400242,long method_SqlTypeExplicitPrecedenceList#compareTypePrecedence RelDataType|RelDataType.java,long method,function,none,0
+243,202400243,long method_SetMatrix#process Operator|List<COSBase>.java,long method,function,none,0
+244,202400244,long method_ServerRemoteProcedure#remoteOperationDone MasterProcedureEnv|Throwable.java,long method,function,none,0
+245,202400245,long method_SentryStore#getMAuthzPaths long|String.java,long method,function,none,0
+246,202400246,long method_RemoteRestartClientConfiguration#classPathFileSystemWatcher FileSystemWatcherFactory|ClassPathRestartStrategy.java,long method,function,none,0
+247,202400247,long method_PDFLayoutEmitter#endContainer IContainerContent.java,long method,function,none,0
+248,202400248,long method_orderFragments Set<WebXml>|Set<WebXml>.java,long method,function,none,0
+249,202400249,long method_NextAvailableStrategy#mapToRelationship ProcessContext|FlowFile.java,long method,function,none,0
+250,202400250,long method_MetaDataReader File|int.java,long method,function,none,0
+251,202400251,long method_Merge#runLater State|RandWalkEnv.java,long method,function,none,0
+252,202400252,long method_IgniteClusterImpl#restartNodes Collection<UUID>.java,long method,function,none,0
+253,202400253,long method_FileHistoryCache#storeFile History|File|Repository|boolean.java,long method,function,none,0
+254,202400254,long method_EncryptEdgeDispatcher#routeToBackend RoutingContext|Hcr|String.java,long method,function,none,0
+255,202400255,long method_computeWidth IDisplayServer|Label.java,long method,function,none,0
+256,202400256,long method_ASCompilationUnit#createFileNode IFileSpecification.java,long method,function,none,0
+257,202400257,long method_APIRequestUpdate#setParam String|Object.java,long method,function,none,0
+258,202400258,long method_AbstractXbaseCompiler#appendDefaultLiteral ITreeAppendable|LightweightTypeReference.java,long method,function,none,0
+259,202400259,long method_AbstractQueue#getMessageContent long|long|boolean|boolean.java,long method,function,none,0
+260,202400260,long method_AbstractWagon#connect Repository|ProxyInfoProvider.java,long method,function,none,0
+261,202400261,long method_InternalBug462047LangLexer#mT__74.java,long method,function,none,0
+262,202400262,long method_AdaptiveResultTreeImpl#comment char[]|int|int.java,long method,function,none,0
+263,202400263,long method_AbstractMemoryStore#remove ConfiguredObjectRecord.java,long method,function,none,0
+264,202400264,long method_CheckpointAMPreemptionPolicy#handleFailedContainer TaskAttemptId.java,long method,function,none,0
+265,202400265,long method_CordovaCLI#version IProgressMonitor.java,long method,function,none,0
+266,202400266,long method_TransformerImpl#setOutputProperty String|String.java,long method,function,none,0
+267,202400267,long method_getParent Element.java,long method,function,none,0
+268,202400268,long method_PropertyScope#printRemove ParsedRuleKeyFile|Value.java,long method,function,none,0
+269,202400269,long method_getPaintingOrigin JComponent.java,long method,function,none,0
+270,202400270,long method_ParallelSelectUnsortedSetIterable#allSatisfy Predicate<? super T>.java,long method,function,none,0
+271,202400271,long method_ObjectReferenceImpl#referenceType.java,long method,function,none,0
+272,202400272,long method_ApplicationBuilder#checkDuringManage.java,long method,function,none,0
+273,202400273,long method_PublishingBodySubscriber.java,long method,function,none,0
+274,202400274,long method_Call ParsingContext|StartElement|Attributes|Stack.java,long method,function,none,0
+275,202400275,long method_Primitive.java,long method,function,none,0
+276,202400276,long method_UnmodifiableMutableMap#toSortedList.java,long method,function,none,0
+277,202400277,long method_ClassDefItemConsumer String|Future<ClassDefItem>|int|int.java,long method,function,none,0
+278,202400278,long method_NodeSequence#getRoot.java,long method,function,none,0
+279,202400279,long method_ResourceResponseImpl#setLocale Locale.java,long method,function,none,0
+280,202400280,long method_payloadSize.java,long method,function,none,0
+281,202400281,long method_TransactionDetail Xid|Transaction|Long.java,long method,function,none,0
+282,202400282,long method_Pool#flush.java,long method,function,none,0
+283,202400283,long method_CsvRecordOutput#printCommaUnlessFirst.java,long method,function,none,0
+284,202400284,long method_SiteEntityEntityServiceMemoryImpl#create SiteEntity.java,long method,function,none,0
+285,202400285,long method_WordCountHBaseIT#setUp.java,long method,function,none,0
+286,202400286,long method_CloudSearchIndexWriter#close.java,long method,function,none,0
+287,202400287,long method_HttpHost#clone.java,long method,function,none,0
+288,202400288,long method_SendPartitionMutationsRequest#writeRequest DataOutput.java,long method,function,none,0
+289,202400289,long method_DefaultMetadataService#bindMetadataProvider MetadataProvider.java,long method,function,none,0
+290,202400290,long method_ControlCommandMarshaller#tightMarshal1 OpenWireFormat|Object|BooleanStream.java,long method,function,none,0
+291,202400291,long method_TPrivilegePrincipal#setFieldValue _Fields|Object.java,long method,function,none,0
+292,202400292,long method_PlayerSession#isSuspended.java,long method,function,none,0
+293,202400293,long method_NumberFeatureExpression#getFloatValue MatchContext|RutaStream.java,long method,function,none,0
+294,202400294,long method_LogTransformer#ignorableWhitespace char|int|int.java,long method,function,none,0
+295,202400295,long method_EventStateCollection#getNameElement NodeId|NodeId|HierarchyManager.java,long method,function,none,0
+296,202400296,long method_DexDataBuffer#write short[].java,long method,function,none,0
+297,202400297,long method_CountingOutputStream#write byte[].java,long method,function,none,0
+298,202400298,long method_AnimSVGRect#setX float.java,long method,function,none,0
+299,202400299,long method_CheckBoxFilterComplexRule#appliesToPartially GenerationSimpleRule|int.java,long method,function,none,0
+300,202400300,long method_GenericUDAFnGramEvaluator#getNewAggregationBuffer.java,long method,function,none,0
+301,202400301,long method_BUTTON#$lang String.java,long method,function,none,0
+302,202400302,long method_getLabelField String.java,long method,function,none,0
+303,202400303,long method_MapReduceParallelScanGrouper#getRegionLocationsFromManifest SnapshotManifest.java,long method,function,none,0
+304,202400304,long method_DirectScanPrel RelOptCluster|RelTraitSet|GroupScan|RelDataType.java,long method,function,none,0
+305,202400305,long method_Position.java,long method,function,none,0
+306,202400306,long method_BaseDataStreamMarshaller#looseMarshalByteArray OpenWireFormat|byte[]|DataOutput.java,long method,function,none,0
+307,202400307,long method_getColumnProperties.java,long method,function,none,0
+308,202400308,long method_ImageProcess String|String|Properties|ImageThread|Iterator|ImageModule|Iterator|int.java,long method,function,none,0
+309,202400309,long method_UnmodifiableAccessControlList#getRestrictionType String.java,long method,function,none,0
+310,202400310,long method_makeAllColumnsPrimaryKeysIfNoPrimaryKeysFound Table.java,long method,function,none,0
+311,202400311,long method_Builder#computeDiffEntries Repository|GitilesView|RevWalk|RevCommit.java,long method,function,none,0
+312,202400312,long method_setFieldValue Field|String.java,long method,function,none,0
+313,202400313,long method_CopyAction#getText.java,long method,function,none,0
+314,202400314,long method_SetAudioVolume int|int|int|int.java,long method,function,none,0
+315,202400315,long method_FowlerdslAdapterFactory#defaultCase EObject.java,long method,function,none,0
+316,202400316,long method_GTParamOutFragment#onCreate Bundle.java,long method,function,none,0
+317,202400317,long method_NginxSshDriver#customize.java,long method,function,none,0
+318,202400318,long method_PropertyEntryImpl#buildPath boolean.java,long method,function,none,0
+319,202400319,long method_DeleteShareProductDividendCommandHandler#processCommand JsonCommand.java,long method,function,none,0
+320,202400320,long method_ProfileHttpClientBase#setProfileAttributes VssJsonCollectionWrapper<List<ProfileAttributeBase<Object>>>|String.java,long method,function,none,0
+321,202400321,long method_WebController#ping.java,long method,function,none,0
+322,202400322,long method_RMIContext#getCurrentBindings.java,long method,function,none,0
+323,202400323,long method_JSAMDEmitter#emitPackageContents IPackageDefinition.java,long method,function,none,0
+324,202400324,long method_Activator#stop BundleContext.java,long method,function,none,0
+325,202400325,long method_Builder#copy ListVolumeGroupBackupsResponse.java,long method,function,none,0
+326,202400326,long method_MockHttpServletResponse#setContentLength int.java,long method,function,none,0
+327,202400327,long method_GenericResultSetFactory#getUpdateVTIResultSet NoPutResultSet.java,long method,function,none,0
+328,202400328,long method_TesterObject#getConnection.java,long method,function,none,0
+329,202400329,long method_QueueActorRouterProducer#getMessageTypes.java,long method,function,none,0
+330,202400330,long method_is64bitJVM.java,long method,function,none,0
+331,202400331,long method_DateTimeItem#setState State.java,long method,function,none,0
+332,202400332,long method_validate EncryptionKey|ApRep|ApReq.java,long method,function,none,0
+333,202400333,long method_WeightedAshwoodEntitySorter.java,long method,function,none,0
+334,202400334,long method_ConfigurationInfo CompositeData.java,long method,function,none,0
+335,202400335,long method_InjvmExporter#unexport.java,long method,function,none,0
+336,202400336,long method_OlcConfig#addAuxiliaryObjectClasses AuxiliaryObjectClass.java,long method,function,none,0
+337,202400337,long method_XAWTScrollPaneUI#uninstallListeners JComponent.java,long method,function,none,0
+338,202400338,long method_StaticDependencyTraverser#hashCode.java,long method,function,none,0
+339,202400339,long method_ServerManager#addServerToDrainList ServerName.java,long method,function,none,0
+340,202400340,long method_SecondPassVisitor#escapeCDATA String.java,long method,function,none,0
+341,202400341,long method_ReferenceAliasWhereEntryImpl#eStaticClass.java,long method,function,none,0
+342,202400342,long method_QueryResponseOutputStreamCallback#process OutputStream.java,long method,function,none,0
+343,202400343,long method_OutputBuffer#write String.java,long method,function,none,0
+344,202400344,long method_ManagementConfiguration#readOrder AnnotationMetadata.java,long method,function,none,0
+345,202400345,long method_LLVMContext#getApplicationArguments.java,long method,function,none,0
+346,202400346,long method_LayoutTable#getLayoutString.java,long method,function,none,0
+347,202400347,long method_JvmModelGenerator#getMembersToBeCompiled JvmDeclaredType.java,long method,function,none,0
+348,202400348,long method_JobServiceImpl#deleteJobsRelateToMeasure Long.java,long method,function,none,0
+349,202400349,long method_JCachePolicy#toString.java,long method,function,none,0
+350,202400350,long method_InternalMetaDataLexer#mT__122.java,long method,function,none,0
+351,202400351,long method_InternalBug304681TestLanguageParser#rule__Object__Group__4.java,long method,function,none,0
+352,202400352,long method_HashJoinLocalIndexIT#testJoinWithLocalIndex.java,long method,function,none,0
+353,202400353,long method_hash long.java,long method,function,none,0
+354,202400354,long method_H2TreeIndex#filter QueryContext.java,long method,function,none,0
+355,202400355,long method_GSSException#getMessage.java,long method,function,none,0
+356,202400356,long method_FormatTimestamp#setValue String.java,long method,function,none,0
+357,202400357,long method_findByThriftIdOrThrow int.java,long method,function,none,0
+358,202400358,long method_FileSystemSwapManager#getOwnerPartition File.java,long method,function,none,0
+359,202400359,long method_DeleteKeyFn#apply Key.java,long method,function,none,0
+360,202400360,long method_createVersionTagHolder.java,long method,function,none,0
+361,202400361,long method_ChildNodeEntriesImpl#reload.java,long method,function,none,0
+362,202400362,long method_CacheLIRS#asMap.java,long method,function,none,0
+363,202400363,long method_AssignWindowsParDoFn#processElement Object.java,long method,function,none,0
+364,202400364,long method_AnnotationDescription#equals Object.java,long method,function,none,0
+365,202400365,long method_AndroidPackageableCollector#addNativeLinkableAsset NativeLinkable.java,long method,function,none,0
+366,202400366,long method_AbstractJavadocMojo#getAggregatedProjects.java,long method,function,none,0
+367,202400367,long method_AbstractBaseResourceService#createEntityObject.java,long method,function,none,0
+368,202400368,long method_#create.java,long method,function,none,0
+369,202400369,long method_XRGlyphCache#seperateGlyphTypes List<XRGlyphCacheEntry>|boolean.java,long method,function,none,0
+370,202400370,long method_validateTypeSize Component|JTextField.java,long method,function,none,0
+371,202400371,long method_UsersManager#activateApplication String|ApplicationId.java,long method,function,none,0
+372,202400372,long method_TokenValidator#childNodeChanged String|NodeState|NodeState.java,long method,function,none,0
+373,202400373,long method_SingleEventFactory#makeImmediatelyThrowsEvent int|int|Throwable.java,long method,function,none,0
+374,202400374,long method_SavingsTransactionsWorkbookPopulator#populate Workbook|String.java,long method,function,none,0
+375,202400375,long method_RFindSymbolNode|ConditionProfile.java,long method,function,none,0
+376,202400376,long method_OdsLayoutEngine#setDataType StyleEntry|Object|String.java,long method,function,none,0
+377,202400377,long method_MerkleTreesSerializer#deserialize DataInputPlus|int.java,long method,function,none,0
+378,202400378,long method_LettuceServerCommands#killClient String|int.java,long method,function,none,0
+379,202400379,long method_JoltTransformRecord#transform Record|JoltTransform.java,long method,function,none,0
+380,202400380,long method_join CharSequence|Iterable.java,long method,function,none,0
+381,202400381,long method_JavacOptionsProviderFactory#createToolchain ToolchainProvider|ToolchainCreationContext.java,long method,function,none,0
+382,202400382,long method_GridFsArtifact GridFSFile|String|Supplier<InputStream>.java,long method,function,none,0
+383,202400383,long method_getHexBytes byte[]|int|int.java,long method,function,none,0
+384,202400384,long method_encrypt OutputStream|byte[]|int|int|Encryptor.java,long method,function,none,0
+385,202400385,long method_DiscardUDPClient#send byte[]|int|InetAddress|int.java,long method,function,none,0
+386,202400386,long method_DelayedWorkQueue#siftUp int|RunnableScheduledFuture<?>.java,long method,function,none,0
+387,202400387,long method_CssRecord Module|DesignElement|CssStyleSheet|boolean|int.java,long method,function,none,0
+388,202400388,long method_createWebAppContext Builder|AccessControlList|String.java,long method,function,none,0
+389,202400389,long method_ColumnDefn ResultSetColumnHandle|ColumnHintHandle.java,long method,function,none,0
+390,202400390,long method_CGraphPanelSynchronizer CGraphModel|CGraphWindowMenuBar.java,long method,function,none,0
+391,202400391,long method_BundleConfigurationProvider String|Bundle|BundleContext.java,long method,function,none,0
+392,202400392,long method_AnnotationClassFilter#matches Class<?>.java,long method,function,none,0
+393,202400393,long method_AddImpl#eInverseRemove InternalEObject|int|NotificationChain.java,long method,function,none,0
+394,202400394,long method_BatchOperationApplyOnWizardPage#validate.java,long method,function,none,0
+395,202400395,long method_ResolveVisualizerView#fillLocalToolBar IToolBarManager.java,long method,function,none,0
+396,202400396,long method_LessEqCursor#close.java,long method,function,none,0
+397,202400397,long method_ResourceOperationSpecService.java,long method,function,none,0
+398,202400398,long method_Constant#set String|String|Handle|Object[].java,long method,function,none,0
+399,202400399,long method_AgentDataHolder#getHash T|String.java,long method,function,none,0
+400,202400400,long method_VoteRunnableHolder QuorumVote|List<VoteRunnable>|int.java,long method,function,none,0
+401,202400401,long method_OptionMulti#shortDisplay.java,long method,function,none,0
+402,202400402,long method_AquaMenuItemUI#doClick MenuSelectionManager.java,long method,function,none,0
+403,202400403,long method_SQLBuilder#visit SQLBuilderContext|LogicalNode|Stack<LogicalNode>.java,long method,function,none,0
+404,202400404,long method_APIRequestDelete#requestAllFields boolean.java,long method,function,none,0
+405,202400405,long method_pricipalCompareIgnoreRealm PrincipalName|PrincipalName.java,long method,function,none,0
+406,202400406,long method_Creator#createImageFromFile String|double|double.java,long method,function,none,0
+407,202400407,long method_VUtil#timeout Integer.java,long method,function,none,0
+408,202400408,long method_PaginatorsClassSpec#resumeMethodBuilder.java,long method,function,none,0
+409,202400409,long method_classNameBase String.java,long method,function,none,0
+410,202400410,long method_set double[]|int|double.java,long method,function,none,0
+411,202400411,long method_WebContinuation#getContinuation int.java,long method,function,none,0
+412,202400412,long method_isValidNmtoken String.java,long method,function,none,0
+413,202400413,long method_RectangleTests#test_getSize.java,long method,function,none,0
+414,202400414,long method_getCoordinates List<ShapeRecord>.java,long method,function,none,0
+415,202400415,long method_TListSentryPrivilegesResponse#clear.java,long method,function,none,0
+416,202400416,long method_XtendAnnotationReferenceImpl#getByteArrayValue String.java,long method,function,none,0
+417,202400417,long method_LockBasedScheduler#removeCheckpoint String.java,long method,function,none,0
+418,202400418,long method_UnitConverter#findWkid String.java,long method,function,none,0
+419,202400419,long method_FeatureFormat#setAllowedColumns Set<Column>.java,long method,function,none,0
+420,202400420,long method_getMessageHash JSONObject|Collection<String>.java,long method,function,none,0
+421,202400421,long method_DefineShape#equals Object.java,long method,function,none,0
+422,202400422,long method_FsPathConnectionRunner#getResponse HttpURLConnection.java,long method,function,none,0
+423,202400423,long method_ContextImpl#composeName String|String.java,long method,function,none,0
+424,202400424,long method_BorderFillLayout int.java,long method,function,none,0
+425,202400425,long method_findBehavior Component|Class<? extends Behavior>.java,long method,function,none,0
+426,202400426,long method_AspectJAfterReturningAdvice#matchesReturnValue Class<?>|Method|Object.java,long method,function,none,0
+427,202400427,long method_isOid String.java,long method,function,none,0
+428,202400428,long method_FilterAsAlphaRed#copyData WritableRaster.java,long method,function,none,0
+429,202400429,long method_renderChildren List<Tree>|int|boolean|StringBuilder.java,long method,function,none,0
+430,202400430,long method_newEarModule Artifact|JavaEEVersion|String|Boolean|ArtifactTypeMappingService.java,long method,function,none,0
+431,202400431,long method_FirewireCaptureDevice#activateInput CaptureDeviceInput.java,long method,function,none,0
+432,202400432,long method_Builder#buildPartial.java,long method,function,none,0
+433,202400433,long method_AbstractMigrationPlugin#getMaxVersion.java,long method,function,none,0
+434,202400434,long method_RecurrenceRule GenericValue.java,long method,function,none,0
+435,202400435,long method_DBFResultSet#assertNotClosed.java,long method,function,none,0
+436,202400436,long method_throwCauseIfTaggedWith Throwable|Object.java,long method,function,none,0
+437,202400437,long method_Stanza#getValueOrNull String.java,long method,function,none,0
+438,202400438,long method_clientExistingServerSuite Class|String|int.java,long method,function,none,0
+439,202400439,long method_StorageResponseGTScatter GTScanRequest|IPartitionStreamer|StorageContext.java,long method,function,none,0
+440,202400440,long method_DataSourceInfo#execute Long|Context.java,long method,function,none,0
+441,202400441,long method_DelegationTokenRenewer#applicationFinished ApplicationId.java,long method,function,none,0
+442,202400442,long method_MavenPathResolvingStrategy#getPath LogicalPath.java,long method,function,none,0
+443,202400443,long method_LinkcheckReport#generateReport Locale|LinkcheckModel.java,long method,function,none,0
+444,202400444,long method_Types#hasSameBounds ForAll|ForAll.java,long method,function,none,0
+445,202400445,long method_newBagSchema String|String|List<String>|List<Byte>.java,long method,function,none,0
+446,202400446,long method_ResourceValidity#updateEntity UnitOfWork.java,long method,function,none,0
+447,202400447,long method_EmailAlias#equals Object.java,long method,function,none,0
+448,202400448,long method_Message.java,long method,function,none,0
+449,202400449,long method_ListAdapter#add T.java,long method,function,none,0
+450,202400450,long method_StackAdvisorCommand#createConfigResource.java,long method,function,none,0
+451,202400451,long method_FunctionblockProperty#hashCode.java,long method,function,none,0
+452,202400452,long method_RexExpander#makeMultiply RexNode|RexNode.java,long method,function,none,0
+453,202400453,long method_Instance|Communicator<Message>|Communicator<Message>|Communicator<InstanceControlMsg>|HeronSocketOptions|GatewayMetrics.java,long method,function,none,0
+454,202400454,long method_JobConf#deleteLocalFiles String.java,long method,function,none,0
+455,202400455,long method_CLCHTTPProxyConfiguration String|int|String|String.java,long method,function,none,0
+456,202400456,long method_StreamingResponseWriter#write T.java,long method,function,none,0
+457,202400457,long method_BinaryLazyArrayList#clear.java,long method,function,none,0
+458,202400458,long method_HeaderPanel String|String.java,long method,function,none,0
+459,202400459,long method_Seeker#scanLibrary boolean.java,long method,function,none,0
+460,202400460,long method_RetrieveLoginFromTaverna#getPassword.java,long method,function,none,0
+461,202400461,long method_TokenIndex#caseTRParen TRParen.java,long method,function,none,0
+462,202400462,long method_TaskManager#updateNewAndRestoringTasks.java,long method,function,none,0
+463,202400463,long method_TableReadFunction#get K.java,long method,function,none,0
+464,202400464,long method_swap Join.java,long method,function,none,0
+465,202400465,long method_SingletonIterator#hasNext.java,long method,function,none,0
+466,202400466,long method_SftpOperations#tryConfigureBulkRequests.java,long method,function,none,0
+467,202400467,long method_setUp.java,long method,function,none,0
+468,202400468,long method_SemanticAnalyzer#initParseCtx ParseContext.java,long method,function,none,0
+469,202400469,long method_SelectAllAction#run.java,long method,function,none,0
+470,202400470,long method_Read#expand PBegin.java,long method,function,none,0
+471,202400471,long method_RabbitAdmin#declareExchange Exchange.java,long method,function,none,0
+472,202400472,long method_ProgressSplitsBlock#burst.java,long method,function,none,0
+473,202400473,long method_PrefixExpImpl#eUnset int.java,long method,function,none,0
+474,202400474,long method_parse String.java,long method,function,none,0
+475,202400475,long method_OutputColumnInputDialog#rollback.java,long method,function,none,0
+476,202400476,long method_openProcessToken int.java,long method,function,none,0
+477,202400477,long method_OffsetDateTime#compareTo OffsetDateTime.java,long method,function,none,0
+478,202400478,long method_MapFieldEntry#isInitialized.java,long method,function,none,0
+479,202400479,long method_MapEntry#equals Object.java,long method,function,none,0
+480,202400480,long method_LSMRTreeWithAntiMatterLocalResource#createInstance INCServiceContext.java,long method,function,none,0
+481,202400481,long method_LoggingEvent#writeObject ObjectOutputStream.java,long method,function,none,0
+482,202400482,long method_LoggingApplicationListener#coerceLogLevel String.java,long method,function,none,0
+483,202400483,long method_loadTokens.java,long method,function,none,0
+484,202400484,long method_list_sentry_privileges_by_user_and_itsgroups_args TListSentryPrivilegesRequest.java,long method,function,none,0
+485,202400485,long method_InternalParametersTestLanguageExParser#ruleScenario1.java,long method,function,none,0
+486,202400486,long method_InternalLiveContainerBuilderIntegerationTestLanguageParser#ruleModel.java,long method,function,none,0
+487,202400487,long method_IASTORE#accept Visitor.java,long method,function,none,0
+488,202400488,long method_HotspotCompilation#getFailedCompile.java,long method,function,none,0
+489,202400489,long method_HardwareDescription#toString.java,long method,function,none,0
+490,202400490,long method_Handler#stateChanged ChangeEvent.java,long method,function,none,0
+491,202400491,long method_GTCubeStorageQueryBase#findAggrFuncFromCubeDesc FunctionDesc.java,long method,function,none,0
+492,202400492,long method_GsonDataFormat#doStart.java,long method,function,none,0
+493,202400493,long method_GridCacheProxyImpl#keepBinary.java,long method,function,none,0
+494,202400494,long method_getFailurePolicy RegionCoprocessorEnvironment.java,long method,function,none,0
+495,202400495,long method_GenericKeyedObjectPool#getNumWaitersByKey.java,long method,function,none,0
+496,202400496,long method_FileUserGroupProvider#parseGroup Element.java,long method,function,none,0
+497,202400497,long method_ExprsItr#hasNext.java,long method,function,none,0
+498,202400498,long method_EquivalentToPredicate#equals Object.java,long method,function,none,0
+499,202400499,long method_EdgesConnecting#contains Object.java,long method,function,none,0
+500,202400500,long method_DistributedRegion#removeAsyncEventQueueId String.java,long method,function,none,0
+501,202400501,long method_DatatypeRulesTestLanguageSwitch.java,long method,function,none,0
+502,202400502,long method_DataStagingTaskModel#setDestinationIsSet boolean.java,long method,function,none,0
+503,202400503,long method_CreateInternalLoadBalancerElementCmd#execute.java,long method,function,none,0
+504,202400504,long method_ConcurrentHashMap#keys.java,long method,function,none,0
+505,202400505,long method_ClassMetaData#valueChanged Value.java,long method,function,none,0
+506,202400506,long method_checkPermission.java,long method,function,none,0
+507,202400507,long method_CascadingParametersDialog#getDataSet ScalarParameterHandle.java,long method,function,none,0
+508,202400508,long method_Builder InputFile.java,long method,function,none,0
+509,202400509,long method_BackupSetCommand#getCommand String.java,long method,function,none,0
+510,202400510,long method_AutoConfigurationClass#getAnnotationMetadata.java,long method,function,none,0
+511,202400511,long method_AuthzToken.java,long method,function,none,0
+512,202400512,long method_AnalysisRpcRemoteException#setStackTraceTexts String[].java,long method,function,none,0
+513,202400513,long method_AbstractWovenProxyMethodAdapter#writePreInvoke.java,long method,function,none,0
+514,202400514,long method_AbstractMappingMessageRouter#removeChannelMapping String.java,long method,function,none,0
+515,202400515,long method_#getEncoder.java,long method,function,none,0
+516,202400516,long method_TreeMaker#SpeculativeNewClass JCExpression|List<JCExpression>|JCExpression|List<JCExpression>|JCClassDecl|boolean.java,long method,function,none,0
+517,202400517,long method_TProtocol|TCancelOperationResp.java,long method,function,none,0
+518,202400518,long method_TokenValidator#propertyChanged PropertyState|PropertyState.java,long method,function,none,0
+519,202400519,long method_SynchronousXYItemMarker#paintItem ChartItem|List<ItemSelection>|List<ItemSelection>|Graphics2D|Rectangle|ChartContext.java,long method,function,none,0
+520,202400520,long method_ShadowSliceManager#checkSlicePermission Uri|int|int.java,long method,function,none,0
+521,202400521,long method_SerializerOptions boolean|boolean.java,long method,function,none,0
+522,202400522,long method_removeIf List<T>|Predicate<? super T>|Procedure<? super T>.java,long method,function,none,0
+523,202400523,long method_ReactiveCassandraBatchTemplate#delete Iterable<?>|WriteOptions.java,long method,function,none,0
+524,202400524,long method_OptionEntry Object|String.java,long method,function,none,0
+525,202400525,long method_JIMethodCallInliner#visitTryCatchBlock Label|Label|Label|String.java,long method,function,none,0
+526,202400526,long method_JavaElementDelegateJunitLaunch#getAllSuperTypes IType.java,long method,function,none,0
+527,202400527,long method_HiveHookEventProto#getHiveQueryIdBytes.java,long method,function,none,0
+528,202400528,long method_GroupServiceImpl#delete KapuaId|KapuaId.java,long method,function,none,0
+529,202400529,long method_getIdColumns FieldMapping|List.java,long method,function,none,0
+530,202400530,long method_ConcreteImageLayout#createImageMapContainer int|int|int|int|IHyperlinkAction.java,long method,function,none,0
+531,202400531,long method_CompressedTrailerOutputHelper#outputCrossReferenceObject OutputStream|TrailerDictionary|int|int|int.java,long method,function,none,0
+532,202400532,long method_CertificateMessage X509Certificate[]|InetSocketAddress.java,long method,function,none,0
+533,202400533,long method_ButtonRenderer#encodeBadge FacesContext|AbstractUICommand.java,long method,function,none,0
+534,202400534,long method_Builder>.java,long method,function,none,0
+535,202400535,long method_assertFinishedOnce boolean[]|SSLEngineResult.java,long method,function,none,0
+536,202400536,long method_Affine#createMathTransform MathTransformFactory|ParameterValueGroup.java,long method,function,none,0
+537,202400537,long method_SunFontManager#findDeferredFont String|int.java,long method,function,none,0
+538,202400538,long method_HttpListenerRegistry#addHttpFilter HttpListener|String.java,long method,function,none,0
+539,202400539,long method_FollowTheSunPolicy#onContainerAdded Entity|boolean.java,long method,function,none,0
+540,202400540,long method_SimplePrincipalCollection#fromRealm String.java,long method,function,none,0
+541,202400541,long method_ClassImpl#getDefaultConstructor.java,long method,function,none,0
+542,202400542,long method_GenericAggregateResultSet#finish.java,long method,function,none,0
+543,202400543,long method_AbstractConfiguredObjectTypeFactory#getType.java,long method,function,none,0
+544,202400544,long method_getRequiredAPIElements int.java,long method,function,none,0
+545,202400545,long method_ApiError#equals Object.java,long method,function,none,0
+546,202400546,long method_UpdateIndexAuthorizationProcessorFactory#getInstance SolrQueryRequest|SolrQueryResponse|UpdateRequestProcessor.java,long method,function,none,0
+547,202400547,long method_ServerIdDialog#createServerIdEditGroup Composite.java,long method,function,none,0
+548,202400548,long method_ContainerServiceRecordProcessor#createAInfo ServiceRecord.java,long method,function,none,0
+549,202400549,long method_TraversableGenerator#addAncestorPath TraversableSource|Stack.java,long method,function,none,0
+550,202400550,long method_RequestItem String.java,long method,function,none,0
+551,202400551,long method_getPropertyGetter String.java,long method,function,none,0
+552,202400552,long method_rmpath String.java,long method,function,none,0
+553,202400553,long method_Model#getModel String.java,long method,function,none,0
+554,202400554,long method_DTMDocumentImpl#getStringValue int.java,long method,function,none,0
+555,202400555,long method_DocumentCache int.java,long method,function,none,0
+556,202400556,long method_LinkRegistryImpl#open.java,long method,function,none,0
+557,202400557,long method_DecimalScalePrecisionModFunction#computeScalePrecision int|int|int|int.java,long method,function,none,0
+558,202400558,long method_BufferedProtocolReadToWrite StructType|FieldIgnoredHandler.java,long method,function,none,0
+559,202400559,long method_XWorkMapPropertyAccessor#getValue Map|Object.java,long method,function,none,0
+560,202400560,long method_MethodElement#getDescriptions.java,long method,function,none,0
+561,202400561,long method_SyntheticAttributes#remove SyntheticAttributeKey<T>.java,long method,function,none,0
+562,202400562,long method_SDEInstaller File|byte[]|File.java,long method,function,none,0
+563,202400563,long method_AclAttributeWrapper#equals Object.java,long method,function,none,0
+564,202400564,long method_GetConstructorsInvocation#invoke Class<?>.java,long method,function,none,0
+565,202400565,long method_EvalTableContentProvider#getElements Object.java,long method,function,none,0
+566,202400566,long method_DiagnosticsUpdateTransition#transition JobImpl|JobEvent.java,long method,function,none,0
+567,202400567,long method_InstanceManager#resumeInstance HttpServletRequest|String|String|String|String|String|List<LifeCycle>.java,long method,function,none,0
+568,202400568,long method_LabeledExpression#generateGroovy GroovyGenerationContext.java,long method,function,none,0
+569,202400569,long method_JobInProgress#getMatchingLevelForNodes Node|Node.java,long method,function,none,0
+570,202400570,long method_WebServiceOutboundGatewayParser#getGatewayClassName Element.java,long method,function,none,0
+571,202400571,long method_ClusterDAO#getLatestConfigurations long|StackId.java,long method,function,none,0
+572,202400572,long method_OutputGeneratedDescriptors#hasCmpPersistenceUnit Persistence.java,long method,function,none,0
+573,202400573,long method_XListPeer#getMinimumSize int.java,long method,function,none,0
+574,202400574,long method_VectorHashKeyWrapperTwoBase#isNull int.java,long method,function,none,0
+575,202400575,long method_LocalSyncClient#enterBarrier BSPJobID|TaskAttemptID|long.java,long method,function,none,0
+576,202400576,long method_v Class<?>|String|Object|Object|Object.java,long method,function,none,0
+577,202400577,long method_MailInboundChannelAdapterSpec#userFlag String.java,long method,function,none,0
+578,202400578,long method_AbstractAuthenticationProvider#getCsrfHeader.java,long method,function,none,0
+579,202400579,long method_X86Frame#senderForInterpreterFrame X86RegisterMap.java,long method,function,none,0
+580,202400580,long method_TOCHandle#doGetColorHandle String.java,long method,function,none,0
+581,202400581,long method_TaskExecutor#tryConnectToResourceManager.java,long method,function,none,0
+582,202400582,long method_Shell#getDefaultPrompt.java,long method,function,none,0
+583,202400583,long method_SecurityContextHolderMTTests#testSynchronizationGlobal.java,long method,function,none,0
+584,202400584,long method_ResourceConfigurationBlock#getKeys.java,long method,function,none,0
+585,202400585,long method_RemotingCommand#headerEncode.java,long method,function,none,0
+586,202400586,long method_parseAction String.java,long method,function,none,0
+587,202400587,long method_PageDrawer#closePath.java,long method,function,none,0
+588,202400588,long method_OAuth2SecurityExpressionMethods#hasAnyScope String.java,long method,function,none,0
+589,202400589,long method_MethodInterceptor.java,long method,function,none,0
+590,202400590,long method_Measure#equals Object.java,long method,function,none,0
+591,202400591,long method_InternalXtextParser#rule__GeneratedMetamodel__EPackageAssignment_2.java,long method,function,none,0
+592,202400592,long method_GregorianCalendar#getActualMinimum int.java,long method,function,none,0
+593,202400593,long method_fromString String.java,long method,function,none,0
+594,202400594,long method_DrillPreparedStatementImpl#cleanUp.java,long method,function,none,0
+595,202400595,long method_BufferExactSubscriber#onComplete.java,long method,function,none,0
+596,202400596,long method_ApplicationAvailabilityListener#propertyChange PropertyChangeEvent.java,long method,function,none,0
+597,202400597,long method_AffineTransform#createTransformedShape Shape.java,long method,function,none,0
+598,202400598,long method_AccessibleJTreeNode#selectAllAccessibleSelection.java,long method,function,none,0
+599,202400599,long method_AbstractEntry#equals Object.java,long method,function,none,0
+600,202400600,long method_SortingFormPropertyDescriptor#addElementEvent DesignElementHandle|NotificationEvent.java,long method,function,none,0
+601,202400601,long method_SimpleProcedureScheduler#enqueue Procedure|boolean.java,long method,function,none,0
+602,202400602,long method_SeekableStreamIndexTaskRunner#isMoreToReadBeforeReadingRecord SequenceOffsetType|SequenceOffsetType.java,long method,function,none,0
+603,202400603,long method_PlatformMessaging#startRemoteListenAsync BinaryRawReaderEx|IgniteMessaging.java,long method,function,none,0
+604,202400604,long method_FSDataBoundedInputStream FileSystem|Path|InputStream.java,long method,function,none,0
+605,202400605,long method_fixLibsDirPath String|String|boolean.java,long method,function,none,0
+606,202400606,long method_disjoint Iterable|Iterable.java,long method,function,none,0
+607,202400607,long method_Creator#createOptional ValueTypeInfo<T>.java,long method,function,none,0
+608,202400608,long method_ConnectionPoolId UserGroupInformation|String|Class<?>.java,long method,function,none,0
+609,202400609,long method_collectBasePaths Iterable<? extends BuildTarget>.java,long method,function,none,0
+610,202400610,long method_BasicRto#processRTTmeasurement long|Exchange|int.java,long method,function,none,0
+611,202400611,long method_putUint32 PositionedByteRange|int.java,long method,function,none,0
+612,202400612,long method_ClientCacheQueryResponse long|ClientCacheQueryCursor.java,long method,function,none,0
+613,202400613,long method_JettyReactiveWebServerFactory#createJettyServer JettyHttpHandlerAdapter.java,long method,function,none,0
+614,202400614,long method_UserProfileServiceHandler#getIAMUserProfileUpdater AuthzToken|UserProfile.java,long method,function,none,0
+615,202400615,long method_ContainerLaunch#getContainerPrivateDir String|String.java,long method,function,none,0
+616,202400616,long method_APIRequestGetAdCreatives#requestField String|boolean.java,long method,function,none,0
+617,202400617,long method_TByteValue#setFieldValue _Fields|Object.java,long method,function,none,0
+618,202400618,long method_ValueExpression#getValue Class<T>.java,long method,function,none,0
+619,202400619,long method_doPaginateWithRecordPaginator IdentityClient|String.java,long method,function,none,0
+620,202400620,long method_stripNamespace String|String.java,long method,function,none,0
+621,202400621,long method_QMUITopBarLayout#addRightImageButton int|int.java,long method,function,none,0
+622,202400622,long method_LogRecord#readPayload ByteBuf|boolean.java,long method,function,none,0
+623,202400623,long method_StandardNiFiServiceFacade#createProcessGroup Revision|String|ProcessGroupDTO.java,long method,function,none,0
+624,202400624,long method_PartitionReceiverHandlerImpl SystemStreamPartition|Counter|Counter|SamzaHistogram|Counter|Interceptor|int.java,long method,function,none,0
+625,202400625,long method_ClientAMProtocolPBClientImpl#getCompInstances GetCompInstancesRequestProto.java,long method,function,none,0
+626,202400626,long method_HiveCountSplitter#other RelDataTypeFactory|AggregateCall.java,long method,function,none,0
+627,202400627,long method_EntityDefinition#getIndexes.java,long method,function,none,0
+628,202400628,long method_setSize int.java,long method,function,none,0
+629,202400629,long method_FilteredHeaderItem HeaderItem|String.java,long method,function,none,0
+630,202400630,long method_AbstractResultSet#getTimestamp int.java,long method,function,none,0
+631,202400631,long method_ProductItemCommerceInsights.java,long method,function,none,0
+632,202400632,long method_UnmodifiableRowSortedMap#rowMap.java,long method,function,none,0
+633,202400633,long method_AbstractFileGroupScan String.java,long method,function,none,0
+634,202400634,long method_EventData#setDdlSchemaName String.java,long method,function,none,0
+635,202400635,long method_InMemoryProjectContextFactory#loadConfiguration String.java,long method,function,none,0
+636,202400636,long method_NXmirrorImpl#setBend_angle_x IDataset.java,long method,function,none,0
+637,202400637,long method_getDefaultDescription boolean|boolean.java,long method,function,none,0
+638,202400638,long method_FixedCapacityLongByteMinHeap#clear.java,long method,function,none,0
+639,202400639,long method_AttributePSVImpl#getErrorCodes.java,long method,function,none,0
+640,202400640,long method_RestoreAction#isVisible IStructuredSelection.java,long method,function,none,0
+641,202400641,long method_VMStatsDiskLRURegionEntryOffHeapStringKey1#setLastModifiedAndAccessedTimes long|long.java,long method,function,none,0
+642,202400642,long method_DefaultStringRedisConnection#zRemRangeByScore byte[]|double|double.java,long method,function,none,0
+643,202400643,long method_Password String.java,long method,function,none,0
+644,202400644,long method_DescriptiveStatistics int.java,long method,function,none,0
+645,202400645,long method_SchemaPlusImpl#getFunctions String.java,long method,function,none,0
+646,202400646,long method_BatchJobRegistryBeanPostProcessor#addJobExecutionListener.java,long method,function,none,0
+647,202400647,long method_Border#onConfigure.java,long method,function,none,0
+648,202400648,long method_CloseShareAccountCommandHandler ShareAccountWritePlatformService.java,long method,function,none,0
+649,202400649,long method_MemoryPersistenceAdapter#size.java,long method,function,none,0
+650,202400650,long method_INodeReference#getFsPermissionShort.java,long method,function,none,0
+651,202400651,long method_ChoiceSelector#doSelect int.java,long method,function,none,0
+652,202400652,long method_CriteriaLogQuery#getQueryString.java,long method,function,none,0
+653,202400653,long method_getIntervalDay long.java,long method,function,none,0
+654,202400654,long method_PersianCalendar#handleComputeFields int.java,long method,function,none,0
+655,202400655,long method_getACZK Configuration.java,long method,function,none,0
+656,202400656,long method_SparseTreeTests#test20.java,long method,function,none,0
+657,202400657,long method_readClassMapping Iterable<String>.java,long method,function,none,0
+658,202400658,long method_ExprFinder#visit Context|Stack<Expr>|Expr.java,long method,function,none,0
+659,202400659,long method_getIndexRowFromHeapRow IndexRowGenerator|RowLocation|ExecRow.java,long method,function,none,0
+660,202400660,long method_NpmContentStore#getContent Node.java,long method,function,none,0
+661,202400661,long method_DbRelationship String.java,long method,function,none,0
+662,202400662,long method_IndexMap#adjustAnnotationDirectory int.java,long method,function,none,0
+663,202400663,long method_PessimisticLockManager#executeQuery Connection|PreparedStatement|SQLBuffer.java,long method,function,none,0
+664,202400664,long method_JoinEdge#hasJoinQual.java,long method,function,none,0
+665,202400665,long method_PromoteCandidateChangesDialog#getTable.java,long method,function,none,0
+666,202400666,long method_OGCPolygon#exteriorRing.java,long method,function,none,0
+667,202400667,long method_LinkAttributeFilter#equals Object.java,long method,function,none,0
+668,202400668,long method_AbstractFormatter.java,long method,function,none,0
+669,202400669,long method_BacktrackingContentAssistTestLanguageGrammarAccess#getCollectionTypeIdentifierRule.java,long method,function,none,0
+670,202400670,long method_KiWiConnection#computeBatchSize int|int.java,long method,function,none,0
+671,202400671,long method_HmacSha1Aes256CheckSum#confounderSize.java,long method,function,none,0
+672,202400672,long method_double_double_double Blob.java,long method,function,none,0
+673,202400673,long method_NodeInformation#isSiteToSiteSecure.java,long method,function,none,0
+674,202400674,long method_DCModuleImpl#getPublishers.java,long method,function,none,0
+675,202400675,long method_Aggregator#aggregate Collection<Object>.java,long method,function,none,0
+676,202400676,long method_AstFunction#getOutputName.java,long method,function,none,0
+677,202400677,long method_MappingUriExtensions#map String.java,long method,function,none,0
+678,202400678,long method_W#write NIOConnection.java,long method,function,none,0
+679,202400679,long method_NodeImpl#namedNodeMapsEqual NamedNodeMap|NamedNodeMap.java,long method,function,none,0
+680,202400680,long method_DeleteResultSet#close.java,long method,function,none,0
+681,202400681,long method_logAccess Integer|InetAddress|Principal|String|String|String.java,long method,function,none,0
+682,202400682,long method_MXMLXMLListNode#getName.java,long method,function,none,0
+683,202400683,long method_AbstractJavadocMojo#collectTaglets.java,long method,function,none,0
+684,202400684,long method_UnsafeByteArrayOutputStream#writeByte int.java,long method,function,none,0
+685,202400685,long method_MP4Header#getSTTSAtom.java,long method,function,none,0
+686,202400686,long method_XChange#getNonceFactory.java,long method,function,none,0
+687,202400687,long method_TypeInsteadOfConstructorLinkingCandidate#getFeature.java,long method,function,none,0
+688,202400688,long method_TPrimitiveTypeEntry#clear.java,long method,function,none,0
+689,202400689,long method_TextStringBuilder#appendln boolean.java,long method,function,none,0
+690,202400690,long method_TelegramServiceRestBotAPIAdapter RestBotAPI.java,long method,function,none,0
+691,202400691,long method_TDSReader#readIntBigEndian.java,long method,function,none,0
+692,202400692,long method_Symbol#getByteAt long.java,long method,function,none,0
+693,202400693,long method_StatementMetadataNode#evaluate BindingSet.java,long method,function,none,0
+694,202400694,long method_SpoolingBufferQueue#add RawFragmentBatchWrapper.java,long method,function,none,0
+695,202400695,long method_SketchEstimatePostAggregator#hashCode.java,long method,function,none,0
+696,202400696,long method_ServiceConfigurationListener#notifyOverrides.java,long method,function,none,0
+697,202400697,long method_ServerStats#getLastProcessedZxid.java,long method,function,none,0
+698,202400698,long method_ResTable_config#colorModeWideColorGamut.java,long method,function,none,0
+699,202400699,long method_RepositoryCollectionResourceMapping#getItemResourceRel.java,long method,function,none,0
+700,202400700,long method_Remapper#createSignatureRemapper SignatureVisitor.java,long method,function,none,0
+701,202400701,long method_UntouchableMutableSet#symmetricDifference SetIterable<? extends T>.java,long method,function,none,0
+702,202400702,long method_union Range<Integer>|Range<Integer>.java,long method,function,none,0
+703,202400703,long method_SubRangeMap#put Range<K>|V.java,long method,function,none,0
+704,202400704,long method_RequestScheduleService#deleteRequestSchedule HttpHeaders|UriInfo|String.java,long method,function,none,0
+705,202400705,long method_ReflectData#validate Schema|Object.java,long method,function,none,0
+706,202400706,long method_Reader|int|int|int.java,long method,function,none,0
+707,202400707,long method_QDWebExplorerFragment#configWebView QMUIWebViewContainer|QMUIWebView.java,long method,function,none,0
+708,202400708,long method_PTFDesc#getLlInfo.java,long method,function,none,0
+709,202400709,long method_PlanningSet#get Fragment.java,long method,function,none,0
+710,202400710,long method_NullableBigIntJsonConverter#startField.java,long method,function,none,0
+711,202400711,long method_Node#getQualifiedNameObject.java,long method,function,none,0
+712,202400712,long method_newScheduledThreadPool int.java,long method,function,none,0
+713,202400713,long method_NamenodeFsck#lostFoundInit DFSClient.java,long method,function,none,0
+714,202400714,long method_Message#getGroupSequence.java,long method,function,none,0
+715,202400715,long method_LinkedList#lastIndexOf Object.java,long method,function,none,0
+716,202400716,long method_LevenshteinDistance#getThreshold.java,long method,function,none,0
+717,202400717,long method_isWindows String.java,long method,function,none,0
+718,202400718,long method_InternalParametersTestLanguageExParser#synpred7_InternalParametersTestLanguageEx_fragment.java,long method,function,none,0
+719,202400719,long method_InstanceImpl#stop.java,long method,function,none,0
+720,202400720,long method_HttpAsyncClientBuilder#disableAutomaticRetries.java,long method,function,none,0
+721,202400721,long method_HStore#hasReferences.java,long method,function,none,0
+722,202400722,long method_HLLMergedStatistic#configure OptionManager.java,long method,function,none,0
+723,202400723,long method_HibernateTransactionManager#getEntityInterceptor.java,long method,function,none,0
+724,202400724,long method_Hashtable#elements.java,long method,function,none,0
+725,202400725,long method_PoolingConnection#prepareStatement String|int|int.java,long method,function,none,0
+726,202400726,long method_Namespaces#setSubscribeRate String|String|SubscribeRate.java,long method,function,none,0
+727,202400727,long method_ModifiableViewTableInitializerExpressionFactory#generationStrategy RelOptTable|int.java,long method,function,none,0
+728,202400728,long method_ImportImpl#eGet int|boolean|boolean.java,long method,function,none,0
+729,202400729,long method_getCauseMessage Throwable.java,long method,function,none,0
+730,202400730,long method_FelixDelegator#shell String.java,long method,function,none,0
+731,202400731,long method_DFSClient#removeFileBeingWritten long.java,long method,function,none,0
+732,202400732,long method_DataInput#peekUnsignedByte int.java,long method,function,none,0
+733,202400733,long method_CreatePullPoint#create String.java,long method,function,none,0
+734,202400734,long method_ContentAssistTestLanguageFactoryImpl#createModel.java,long method,function,none,0
+735,202400735,long method_ColumnDesc#hashCode.java,long method,function,none,0
+736,202400736,long method_ChildUimaContext_impl#getInstrumentationFacility.java,long method,function,none,0
+737,202400737,long method_APIRequestGetTestLeads#requestFieldDataField.java,long method,function,none,0
+738,202400738,long method_APIRequestGetReactions#requestProfileTypeField boolean.java,long method,function,none,0
+739,202400739,long method_AllType#recursionUnsafeHashCode.java,long method,function,none,0
+740,202400740,long method_AddStorageAccountParameters#withSuffix String.java,long method,function,none,0
+741,202400741,long method_AdaptiveTrackSelection#enable.java,long method,function,none,0
+742,202400742,long method_AbstractCrossReferenceProposalTestLanguageUiModule#bindContentAssistContext$Factory.java,long method,function,none,0
+743,202400743,long method_getPropertyEditorClass Object|String.java,long method,function,none,0
+744,202400744,long method_FileSystemView#lockSourceAndCopy File|File.java,long method,function,none,0
+745,202400745,long method_ExternalJavaClass JavaClass|boolean.java,long method,function,none,0
+746,202400746,long method_DeleteCommand ByteBuffer|List<RecordId>.java,long method,function,none,0
+747,202400747,long method_createEmptyInitModule BuildTarget|ProjectFilesystem|ActionGraphBuilder.java,long method,function,none,0
+748,202400748,long method_CheckReporterTTY#reportClass CheckError|J9ClassPointer|String.java,long method,function,none,0
+749,202400749,long method_CassandraModSeqProvider#tryUpdateModSeq CassandraId|ModSeq.java,long method,function,none,0
+750,202400750,long method_AnnotationValueHandler#invoke Object|Method|Object[].java,long method,function,none,0
+751,202400751,long method_#convertValue ActionFields|String.java,long method,function,none,0
+752,202400752,long method_DDdependableFinder#getDependable DataDictionary|UUID.java,long method,function,none,0
+753,202400753,long method_Quota#equals Object.java,long method,function,none,0
+754,202400754,long method_LogEventMultiplexer#streamStarted LogEvent.java,long method,function,none,0
+755,202400755,long method_filteredFieldNamesOf AbstractDescribedSObjectBase|Predicate<SObjectField>.java,long method,function,none,0
+756,202400756,long method_DisambiguatorEngine#getSelectionsInContext String|Collection<String>|String.java,long method,function,none,0
+757,202400757,long method_removeTablespaceForTest String.java,long method,function,none,0
+758,202400758,long method_EagleServiceBaseClient#silence boolean.java,long method,function,none,0
+759,202400759,long method_BuildController#setServiceHost IBuildServiceHost.java,long method,function,none,0
+760,202400760,long method_DefaultHandlerStrategiesBuilder#localeContextResolver LocaleContextResolver.java,long method,function,none,0
+761,202400761,long method_DefaultSecurityConfigurer#namenodePrincipal String.java,long method,function,none,0
+762,202400762,long method_LogstreamPropertyRegistry#toString.java,long method,function,none,0
+763,202400763,long method_CandidateIdFilter EntityCollectionManagerFactory|EntityIndexFactory|IndexLocationStrategyFactory|IndexProducer.java,long method,function,none,0
+764,202400764,long method_DefaultQueryRewriter#beforeRewrite Query.java,long method,function,none,0
+765,202400765,long method_UnicodeSet int.java,long method,function,none,0
+766,202400766,long method_HashCode#equals Object.java,long method,function,none,0
+767,202400767,long method_BinaryQValue#getStream.java,long method,function,none,0
+768,202400768,long method_opInvokeDirect Prototype.java,long method,function,none,0
+769,202400769,long method_ChannelServiceModify#deleteMapping String|String.java,long method,function,none,0
+770,202400770,long method_ProductResource#getReferenceResources.java,long method,function,none,0
+771,202400771,long method_NativeNTLM#getErrorMessage NTLMState.java,long method,function,none,0
+772,202400772,long method_JPAPlainSchemaDAO#findByKeyword String.java,long method,function,none,0
+773,202400773,long method_DelAccessMgrRestImpl#sessionPermissions Session.java,long method,function,none,0
+774,202400774,long method_bootServiceModule boolean|Object|String|Properties.java,long method,function,none,0
+775,202400775,long method_AutoincrementCounter#update long.java,long method,function,none,0
+776,202400776,long method_LifxLightStateChanger LifxLightContext|LifxLightCommunicationHandler.java,long method,function,none,0
+777,202400777,long method_ThreadSafeComponentHandler#dispose.java,long method,function,none,0
+778,202400778,long method_gunzip File|File.java,long method,function,none,0
+779,202400779,long method_YearGroupCalculator#calculate Object.java,long method,function,none,0
+780,202400780,long method_ExtendedType#equals ExtendedType.java,long method,function,none,0
+781,202400781,long method_from String.java,long method,function,none,0
+782,202400782,long method_getClassVersion Class.java,long method,function,none,0
+783,202400783,long method_VersionItemStateManager#setNodeReferences ChangeLog.java,long method,function,none,0
+784,202400784,long method_AddTextAction#actionPerformed ActionEvent.java,long method,function,none,0
+785,202400785,long method_SimpleExoPlayer#seekTo int|long.java,long method,function,none,0
+786,202400786,long method_PhotoEntry#setPositionExt GphotoPosition.java,long method,function,none,0
+787,202400787,long method_AssignProcedure#startTransition MasterProcedureEnv|RegionStateNode.java,long method,function,none,0
+788,202400788,long method_DefaultDataBag#spill.java,long method,function,none,0
+789,202400789,long method_RecurringDepositAccountDepositCommandHandler#processCommand JsonCommand.java,long method,function,none,0
+790,202400790,long method__ReportingService2005SoapService#listJobs.java,long method,function,none,0
+791,202400791,long method_NodeRenderer#getTreeCellRendererComponent JTree|Object|boolean|boolean|boolean|int|boolean.java,long method,function,none,0
+792,202400792,long method_AccountEntityServiceForSavingsImpl#validateSelfUserAccountMapping Long.java,long method,function,none,0
+793,202400793,long method_getOsPrincipalClass.java,long method,function,none,0
+794,202400794,long method_AnimationRoot#getEventType String.java,long method,function,none,0
+795,202400795,long method_MultiEncoder#encode T.java,long method,function,none,0
+796,202400796,long method_parseParametersOptional MethodSpec|List<? extends VariableElement>.java,long method,function,none,0
+797,202400797,long method_ReportRestClient#countExecutions String.java,long method,function,none,0
+798,202400798,long method_AvroRpcResourceManager int.java,long method,function,none,0
+799,202400799,long method_matchAll String.java,long method,function,none,0
+800,202400800,long method_ProjectStatePreferences#setProcedureParams String.java,long method,function,none,0
+801,202400801,long method_ExternalSortExec#calculateFanout int|int|int|int.java,long method,function,none,0
+802,202400802,long method_element_value_Writer#visitAnnotation Annotation_element_value|Boolean.java,long method,function,none,0
+803,202400803,long method_isPronoun Markable.java,long method,function,none,0
+804,202400804,long method_GphotoStarred#consumeAttributes AttributeHelper.java,long method,function,none,0
+805,202400805,long method_CacheSimple#size.java,long method,function,none,0
+806,202400806,long method_ExtendedResourcePredicate#evaluate Resource.java,long method,function,none,0
+807,202400807,long method_NotRunningJob#killTaskAttempt KillTaskAttemptRequest.java,long method,function,none,0
+808,202400808,long method_Tracker#saw T.java,long method,function,none,0
+809,202400809,long method_ReadRecordFactory#close.java,long method,function,none,0
+810,202400810,long method_getNonDerivedContents EObject.java,long method,function,none,0
+811,202400811,long method_CapturedType#cloneWithMetadata TypeMetadata.java,long method,function,none,0
+812,202400812,long method_ImmutableComparatorRegistry#iterator.java,long method,function,none,0
+813,202400813,long method_ProtoSigCacheKey#hashCode.java,long method,function,none,0
+814,202400814,long method_StorageLocation#removeSegment DataSegment.java,long method,function,none,0
+815,202400815,long method_CachingSource#setResponse CachedSourceResponse.java,long method,function,none,0
+816,202400816,long method_HoverView#applyAttributes AttributeSet.java,long method,function,none,0
+817,202400817,long method_JavaVMOption String|ImagePointer.java,long method,function,none,0
+818,202400818,long method_Evaluator#iterate DoubleWritable.java,long method,function,none,0
+819,202400819,long method_DischargeCompletion#onDischargeSuccess.java,long method,function,none,0
+820,202400820,long method_CpEntityManager#getCounterNames.java,long method,function,none,0
+821,202400821,long method_VisualizationResource#copy VisualizationResource.java,long method,function,none,0
+822,202400822,long method_NonFatalErrorHelper Workspace.java,long method,function,none,0
+823,202400823,long method_AggregationManager#getAggregation String.java,long method,function,none,0
+824,202400824,long method_DeviceImpl#supportsSensorType SensorEnum.java,long method,function,none,0
+825,202400825,long method_multiPointRelateEnvelope_ MultiPoint|Envelope|double|int|ProgressTracker.java,long method,function,none,0
+826,202400826,long method_SimpleTransactionFactory#createTransaction String|int.java,long method,function,none,0
+827,202400827,long method_Vector3D#equals Object.java,long method,function,none,0
+828,202400828,long method_TConstableElementImpl#eUnset int.java,long method,function,none,0
+829,202400829,long method_StreamCollectorSubscriber#onSubscribe Subscription.java,long method,function,none,0
+830,202400830,long method_Serializer#serialize EventMessage.java,long method,function,none,0
+831,202400831,long method_RuleParserImpl#variable.java,long method,function,none,0
+832,202400832,long method_ResourceTransformerSupport#findResourceUrlProvider HttpServletRequest.java,long method,function,none,0
+833,202400833,long method_resolveClassFile String.java,long method,function,none,0
+834,202400834,long method_ReactorGroups#listMembers ListMembersRequest.java,long method,function,none,0
+835,202400835,long method_NoOpVertexManager#onVertexManagerEventReceived VertexManagerEvent.java,long method,function,none,0
+836,202400836,long method_X509CertSelector#setExtendedKeyUsage Set<String>.java,long method,function,none,0
+837,202400837,long method_verifyReply String|String|SecretKey.java,long method,function,none,0
+838,202400838,long method_TableContentProvider#inputChanged Viewer|Object|Object.java,long method,function,none,0
+839,202400839,long method_ShadowMap#checkShadowPickers String|Class<?>.java,long method,function,none,0
+840,202400840,long method_SavingsAccountsApiResource#getSavingsTemplate Long|Long|String.java,long method,function,none,0
+841,202400841,long method_RexShuttle#visitFieldCollations List<RexFieldCollation>|boolean[].java,long method,function,none,0
+842,202400842,long method_RepositoryServiceImpl String|String|BatchReadConfig|int|int.java,long method,function,none,0
+843,202400843,long method_QuantileState#collapse Iterable<QuantileBuffer<T>>.java,long method,function,none,0
+844,202400844,long method_ProgressListener|OperationType.java,long method,function,none,0
+845,202400845,long method_PosixVirtualMemoryProvider#mapFile PointerBase|UnsignedWord|WordBase|UnsignedWord|int.java,long method,function,none,0
+846,202400846,long method_OperationResponseFactory#create HttpStatus|HttpHeaders|byte[].java,long method,function,none,0
+847,202400847,long method_NetRexxEngine#initialize BSFManager|String|Vector.java,long method,function,none,0
+848,202400848,long method_MembershipProviderBase#hasMembers.java,long method,function,none,0
+849,202400849,long method_MarkerRangeImpl#getTriggers.java,long method,function,none,0
+850,202400850,long method_LongBinaryHashFunctionFactory#createBinaryHashFunction.java,long method,function,none,0
+851,202400851,long method_LargeMessageControllerImpl#getByte long.java,long method,function,none,0
+852,202400852,long method_JPAReportExecDAO#delete String.java,long method,function,none,0
+853,202400853,long method_JedisClusterKeyCommands#dump byte[].java,long method,function,none,0
+854,202400854,long method_JavaScriptProcesor#getSupportedSourceVersion.java,long method,function,none,0
+855,202400855,long method_InternalXtextParser#rule__Disjunction__Group_1__0.java,long method,function,none,0
+856,202400856,long method_IgnoreElementsSubscriber#scanUnsafe Attr.java,long method,function,none,0
+857,202400857,long method_HeapByteBuffer#put byte.java,long method,function,none,0
+858,202400858,long method_getZynamicsDirectory String.java,long method,function,none,0
+859,202400859,long method_fromName String.java,long method,function,none,0
+860,202400860,long method_ForwardingList#remove int.java,long method,function,none,0
+861,202400861,long method_ExtractMethodUserInputPage#setVisible boolean.java,long method,function,none,0
+862,202400862,long method_ExecutionControlForwarder#commandLoop.java,long method,function,none,0
+863,202400863,long method_DocWriter#openHyperlink HyperlinkInfo.java,long method,function,none,0
+864,202400864,long method_DistributedQueue#element.java,long method,function,none,0
+865,202400865,long method_DefaultIndexingContext#deleteIndexFiles boolean.java,long method,function,none,0
+866,202400866,long method_DataItemCombo#removeModifyListener ModifyListener.java,long method,function,none,0
+867,202400867,long method_createTimeoutCheckScheduler.java,long method,function,none,0
+868,202400868,long method_CPlatformEmbeddedFrame#requestWindowFocus.java,long method,function,none,0
+869,202400869,long method_ConnectionInteraction#open.java,long method,function,none,0
+870,202400870,long method_ColumnBindingDialog#okPressed.java,long method,function,none,0
+871,202400871,long method_ClassStructureImplByAsm#initialValue.java,long method,function,none,0
+872,202400872,long method_CCacheInputStream#readAddr.java,long method,function,none,0
+873,202400873,long method_CancelFrame#encodeHeader ByteBufAllocator.java,long method,function,none,0
+874,202400874,long method_CachedRowSetImpl#getBytes int.java,long method,function,none,0
+875,202400875,long method_BulletinDTO#getNodeAddress.java,long method,function,none,0
+876,202400876,long method_Bean#addMethod Method.java,long method,function,none,0
+877,202400877,long method_AbstractDelegatingLogger#finer String.java,long method,function,none,0
+878,202400878,long method_Logger#info Supplier<String>.java,long method,function,none,0
+879,202400879,long method_LexicographicComparator#compare int[]|int[].java,long method,function,none,0
+880,202400880,long method_LabelAndNodeSizeProcessor#labelNextToPort LPort|boolean.java,long method,function,none,0
+881,202400881,long method_KafkaAuthBinding#isPrivilegeForResource TSentryPrivilege|Resource.java,long method,function,none,0
+882,202400882,long method_InputStream|String|int|int|int.java,long method,function,none,0
+883,202400883,long method_InputInitializerCallback InitializerWrapper|EventHandler|TezVertexID.java,long method,function,none,0
+884,202400884,long method_generateSub ITranslationEnvironment|long|OperandSize|String|String|List<ReilInstruction>.java,long method,function,none,0
+885,202400885,long method_fromRSAPrivateKey RSAPrivateKey|String|String.java,long method,function,none,0
+886,202400886,long method_enumerationToArray Enumeration<String>.java,long method,function,none,0
+887,202400887,long method_decompress char[]|int|char[]|int|int.java,long method,function,none,0
+888,202400888,long method_CustomerRestController#createIdentificationCard String|IdentificationCard.java,long method,function,none,0
+889,202400889,long method_COSArrayList#subList int|int.java,long method,function,none,0
+890,202400890,long method_copyBlobStoreKeys BlobStore|Subject|BlobStore|Subject.java,long method,function,none,0
+891,202400891,long method_IntStack#peek int.java,long method,function,none,0
+892,202400892,long method_QuadrupletonList#size.java,long method,function,none,0
+893,202400893,long method_PagingParameters#toMap.java,long method,function,none,0
+894,202400894,long method_PropertiesVocabSource Properties.java,long method,function,none,0
+895,202400895,long method_NotQueryScorer#nextDoc.java,long method,function,none,0
+896,202400896,long method_EPCell#initialize Attribute[]|ElementProcessor.java,long method,function,none,0
+897,202400897,long method_StickyCookieSpec#parse Header|CookieOrigin.java,long method,function,none,0
+898,202400898,long method_ToStringCreator#append String|Object.java,long method,function,none,0
+899,202400899,long method_ContentNodeImpl#eSet int|Object.java,long method,function,none,0
+900,202400900,long method_getAdjustOpdebuglineInfo.java,long method,function,none,0
+901,202400901,long method_CleanerService#serviceInit Configuration.java,long method,function,none,0
+902,202400902,long method_CaptureInfo#getImplicitPostfixParams TypeElement.java,long method,function,none,0
+903,202400903,long method_ResultSetIterator#hasNext.java,long method,function,none,0
+904,202400904,long method_Rankings#findRankOf Rankable.java,long method,function,none,0
+905,202400905,long method_SqlSetOperator String|SqlKind|int|boolean.java,long method,function,none,0
+906,202400906,long method_StringToBytesConverter#convertSchema String|WorkUnitState.java,long method,function,none,0
+907,202400907,long method_TaskDataCache#getJobContext String.java,long method,function,none,0
+908,202400908,long method_CachingUUIDFactory#cacheIfNecessary UUID.java,long method,function,none,0
+909,202400909,long method_MessagingControllerAdviceBean#getBeanType.java,long method,function,none,0
+910,202400910,long method_PropertiesConfigSet#moveConfigDown IBeansConfig.java,long method,function,none,0
+911,202400911,long method_PartitionInfo#toString.java,long method,function,none,0
+912,202400912,long method_GsonHttpMessageConverter#readTypeToken TypeToken<?>|HttpInputMessage.java,long method,function,none,0
+913,202400913,long method_newInstance QueueInfo.java,long method,function,none,0
+914,202400914,long method_SimpleList#checkAccess int.java,long method,function,none,0
+915,202400915,long method_RegionProducer#messageToRegion Message.java,long method,function,none,0
+916,202400916,long method_ASMifier#declareFrameTypes int|Object[].java,long method,function,none,0
+917,202400917,long method_MapredMapper#configure boolean|TreeBuilder|Dataset.java,long method,function,none,0
+918,202400918,long method_MetaDataPostLookupFilterImpl#getMetaDataValue MetaDataHit.java,long method,function,none,0
+919,202400919,long method_ServiceHost#selectOwner String|String|Operation.java,long method,function,none,0
+920,202400920,long method_NominalAttributeClassObserver#probabilityOfAttributeValueGivenClass double|int.java,long method,function,none,0
+921,202400921,long method_MessageDispatchNotificationMarshaller#tightMarshal1 OpenWireFormat|Object|BooleanStream.java,long method,function,none,0
+922,202400922,long method_RefreshServerJob#run IProgressMonitor.java,long method,function,none,0
+923,202400923,long method_GrailsProjectPropertyTester#test Object|String|Object[]|Object.java,long method,function,none,0
+924,202400924,long method_QueryFragmentCounters#recordAllocBytes long|long.java,long method,function,none,0
+925,202400925,long method_CorruptFileBlocks#hashCode.java,long method,function,none,0
+926,202400926,long method_Provision#resolve.java,long method,function,none,0
+927,202400927,long method_GridCacheAffinityProxy#mapPartitionToPrimaryAndBackups int.java,long method,function,none,0
+928,202400928,long method_DefaultAbstractBag#incSpillCount Enum|long.java,long method,function,none,0
+929,202400929,long method_RouterHeartbeatService#updateStateAsync.java,long method,function,none,0
+930,202400930,long method_compute8 long.java,long method,function,none,0
+931,202400931,long method_ExpandingVisitor#canVisit ExprNode.java,long method,function,none,0
+932,202400932,long method_OozieWorkflowEngine#resumeInstances Entity|Date|Date|Properties|List<LifeCycle>.java,long method,function,none,0
+933,202400933,long method_RegexCharacterCollection#getPatternFindAnyCharacter.java,long method,function,none,0
+934,202400934,long method_FTPClient#mlistDir String|FTPFileFilter.java,long method,function,none,0
+935,202400935,long method_KeyboardFocusManager#getGlobalCurrentFocusCycleRoot.java,long method,function,none,0
+936,202400936,long method_ImmutableMatchingRuleUseRegistry#getOidByName String.java,long method,function,none,0
+937,202400937,long method_AbstractSourcePathResolver#getRelativeArchiveMemberPath SourcePath.java,long method,function,none,0
+938,202400938,long method_LexState#testnext int.java,long method,function,none,0
+939,202400939,long method_BundleInformationParser#processImportBundle BundleInformation|Attributes.java,long method,function,none,0
+940,202400940,long method_ExtendedBlockProto#initFields.java,long method,function,none,0
+941,202400941,long method_TaskRunnerCallable#setWmCountersDone.java,long method,function,none,0
+942,202400942,long method_ControlFlowContextManager#innerToOuter.java,long method,function,none,0
+943,202400943,long method_MemoryStorage#delete IdEntity.java,long method,function,none,0
+944,202400944,long method_StringFormattedMessage Locale|String|Object.java,long method,function,none,0
+945,202400945,long method_getFieldName int.java,long method,function,none,0
+946,202400946,long method_Parameters.java,long method,function,none,0
+947,202400947,long method_GenericTypedValue#writeToBuffer QpidByteBuffer.java,long method,function,none,0
+948,202400948,long method_DMLModStatementNode#createTriggerDependencies TriggerDescriptorList|Dependent.java,long method,function,none,0
+949,202400949,long method_d String|Throwable|String|Object.java,long method,function,none,0
+950,202400950,long method_suggestArgumentNamesWithProposals IJavaProject|IMethodBinding.java,long method,function,none,0
+951,202400951,long method_Builder#clear.java,long method,function,none,0
+952,202400952,long method_getInputLabel TranslationProvider|Bundle|String|String|String|Locale.java,long method,function,none,0
+953,202400953,long method_DataViewBase#getItemModels long|long.java,long method,function,none,0
+954,202400954,long method_EhCacheManager#destroy.java,long method,function,none,0
+955,202400955,long method_RaveError Class<?>|String|String.java,long method,function,none,0
+956,202400956,long method_GrailsExplorerPreferencesPage#getText Object.java,long method,function,none,0
+957,202400957,long method_NameValueCollection#addIfNotEmpty String|List<TValue>.java,long method,function,none,0
+958,202400958,long method_LabelModelObject#getTo.java,long method,function,none,0
+959,202400959,long method_IdentificationApiDocumentation#createScan String|String.java,long method,function,none,0
+960,202400960,long method_ProvisionResourceHeader#getClause Resource.java,long method,function,none,0
+961,202400961,long method_LaterunEvent String|String|String|long|long|String|String|String|int|String.java,long method,function,none,0
+962,202400962,long method_StringInputDialog Shell|String|String|String|String.java,long method,function,none,0
+963,202400963,long method_PortletURLTag286#handleDefaultEscapeXML.java,long method,function,none,0
+964,202400964,long method_ClientDataRequestImpl#checkPostedFormData.java,long method,function,none,0
+965,202400965,long method_AbstractEntity#subscribeToChildren Entity|Sensor<T>|SensorEventListener<? super T>.java,long method,function,none,0
+966,202400966,long method_XQueryDeclarations#declareVariable String.java,long method,function,none,0
+967,202400967,long method_OutputStreamEventReporter#printWithBanner String|char.java,long method,function,none,0
+968,202400968,long method_PostgreSQLTypesNotificationParser#informBaseTypesNotification TypesNotificationContainer|SQLProvider.java,long method,function,none,0
+969,202400969,long method_ApplicationDataBinderImpl#getPrivilegeTO Privilege.java,long method,function,none,0
+970,202400970,long method_StatementHandle|int|int|int.java,long method,function,none,0
+971,202400971,long method_AbstractLayoutManager#addChildLMs List.java,long method,function,none,0
+972,202400972,long method_IntersectOrExceptNode#getFinalCostEstimate.java,long method,function,none,0
+973,202400973,long method_SslDomainImpl#getTrustedCaDb.java,long method,function,none,0
+974,202400974,long method_yArr int.java,long method,function,none,0
+975,202400975,long method_UpdatableIterator#reset.java,long method,function,none,0
+976,202400976,long method_TransactionalSend#flux.java,long method,function,none,0
+977,202400977,long method_TextAreaBuilder#addLetterAdjust GlyphMapping.java,long method,function,none,0
+978,202400978,long method_SimpleFileNameFormat#withTimeFormat String.java,long method,function,none,0
+979,202400979,long method_SimpleAddressManager#addAddressInfo AddressInfo.java,long method,function,none,0
+980,202400980,long method_SetEnvPaths#hashCode.java,long method,function,none,0
+981,202400981,long method_Runner#run.java,long method,function,none,0
+982,202400982,long method_RocksDBCachingPriorityQueueSet#deserializeElement byte[].java,long method,function,none,0
+983,202400983,long method_ReversedType#fromJSONObject Object.java,long method,function,none,0
+984,202400984,long method_ResourceChecker#call.java,long method,function,none,0
+985,202400985,long method_RecorderCallback#onClose CachedOutputStream.java,long method,function,none,0
+986,202400986,long method_RDFParserBuilder#fromString String.java,long method,function,none,0
+987,202400987,long method_PolygonTests#test_contains_Point_BottomConcavePentagonTangentPoints.java,long method,function,none,0
+988,202400988,long method_Pointer#dereference.java,long method,function,none,0
+989,202400989,long method_NotInCollectionPredicate#accept Object.java,long method,function,none,0
+990,202400990,long method_NodeStatus#isInitialized.java,long method,function,none,0
+991,202400991,long method_validateDefault String|Schema|JsonNode.java,long method,function,none,0
+992,202400992,long method_TextArea ITextContent|int|int|int|FontInfo.java,long method,function,none,0
+993,202400993,long method_StreamServiceImpl#publish KapuaDataMessage|Long.java,long method,function,none,0
+994,202400994,long method_shouldParkAfterFailedAcquire Node|Node.java,long method,function,none,0
+995,202400995,long method_ShadowProviderGenerator RobolectricModel|ProcessingEnvironment|String|boolean|int.java,long method,function,none,0
+996,202400996,long method_setLocationProviderEnabledForUser ContentResolver|String|boolean|int.java,long method,function,none,0
+997,202400997,long method_ServiceDBStore#getServicePolicies Long|SearchFilter.java,long method,function,none,0
+998,202400998,long method_removeUncomparableFieldsFromRecord Schema|Set<Schema>.java,long method,function,none,0
+999,202400999,long method_Relation#startFollowing List<Relation>.java,long method,function,none,0
+1000,2024001000,long method_RecurringDepositAccount#handleInstallmentTransaction RecurringDepositScheduleInstallment|Money|LocalDate.java,long method,function,none,0
+1001,2024001001,long method_ProcedureManagerHost#loadInstance Class<?>.java,long method,function,none,0
+1002,2024001002,long method_PrepareSource String|MediaSource|boolean|boolean.java,long method,function,none,0
+1003,2024001003,long method_PRClientServerTestBase#createClientServerScenarion_SingleConnection ArrayList|int|int|int.java,long method,function,none,0
+1004,2024001004,long method_PlainHttpConnection InetSocketAddress|HttpClientImpl.java,long method,function,none,0
+1005,2024001005,long method_LogBuffer#getBeUint24 int.java,long method,function,none,0
+1006,2024001006,long method_LocalFile#mkdirs.java,long method,function,none,0
+1007,2024001007,long method_LoanRescheduleRequestRowMapper.java,long method,function,none,0
+1008,2024001008,long method_LLVMAsForeignNode#doOther Object.java,long method,function,none,0
+1009,2024001009,long method_JobRegisterServiceImpl#stopScheduler String.java,long method,function,none,0
+1010,2024001010,long method_JDBCGroupDatabase#exists Group.java,long method,function,none,0
+1011,2024001011,long method_JConsolePluginWrapper#initPluginService String.java,long method,function,none,0
+1012,2024001012,long method_isDeprecated TypeMirror.java,long method,function,none,0
+1013,2024001013,long method_IOReactorExecutor#execute IOEventHandlerFactory.java,long method,function,none,0
+1014,2024001014,long method_InternalTwoParametersTestLanguageParser#rule__ParserRuleParameters__Group_1_2__1.java,long method,function,none,0
+1015,2024001015,long method_inputStreamFromJar URL.java,long method,function,none,0
+1016,2024001016,long method_IndexSearchOperatorNodePushable#close.java,long method,function,none,0
+1017,2024001017,long method_HeartbeatTxnRangeResponse#addToAborted long.java,long method,function,none,0
+1018,2024001018,long method_GitFlowPersistenceProvider#createFlowSnapshotMetdata Flow.java,long method,function,none,0
+1019,2024001019,long method_getClassName String.java,long method,function,none,0
+1020,2024001020,long method_getAvailableLocaleList.java,long method,function,none,0
+1021,2024001021,long method_GenericURLContext#getContinuationContext Name.java,long method,function,none,0
+1022,2024001022,long method_FOText#bidiLevelAt int.java,long method,function,none,0
+1023,2024001023,long method_EvictionThread#evict.java,long method,function,none,0
+1024,2024001024,long method_Entry#setValue V.java,long method,function,none,0
+1025,2024001025,long method_EditDataSourceAction#doAction.java,long method,function,none,0
+1026,2024001026,long method_DummyXid#equals Object.java,long method,function,none,0
+1027,2024001027,long method_DeferredResultController#processQueues.java,long method,function,none,0
+1028,2024001028,long method_CustomSerializerDeserializer#checkClosure int.java,long method,function,none,0
+1029,2024001029,long method_ConsumerImpl#getLastMessageIdAsync.java,long method,function,none,0
+1030,2024001030,long method_CasEditorIdePreferenceInitializer#initializeDefaultPreferences.java,long method,function,none,0
+1031,2024001031,long method_Builder#username String.java,long method,function,none,0
+1032,2024001032,long method_Builder#add TableMetadata.java,long method,function,none,0
+1033,2024001033,long method_Bug288734TestLanguageInjectorProvider#createRuntimeModule.java,long method,function,none,0
+1034,2024001034,long method_AbstractBaseInheritanceTestLanguageRuntimeModule#configure Binder.java,long method,function,none,0
+1035,2024001035,long method_LazilyRegisteredStateSerializerProvider#setPreviousSerializerSnapshotForRestoredState TypeSerializerSnapshot<T>.java,long method,function,none,0
+1036,2024001036,long method_isValidReferenceForCompoundElement Module|DesignElement.java,long method,function,none,0
+1037,2024001037,long method_isBelowLoadLevel SystemResourceUsage|float.java,long method,function,none,0
+1038,2024001038,long method_InvokeDynamicWriter#finishIndyCall Handle|String|String|int|Object.java,long method,function,none,0
+1039,2024001039,long method_handleIOException IOException|String.java,long method,function,none,0
+1040,2024001040,long method_GenericDaoBase#setField Object|ResultSet|ResultSetMetaData|int.java,long method,function,none,0
+1041,2024001041,long method_create String|int|int|int|GlyphCoverageTable|List.java,long method,function,none,0
+1042,2024001042,long method_ConsumerBuilder#build BlockingQueue<JsonNode>.java,long method,function,none,0
+1043,2024001043,long method_CLabel#computeSize int|int|boolean.java,long method,function,none,0
+1044,2024001044,long method_benchmarkTableCreate MicroBenchmark|BenchData.java,long method,function,none,0
+1045,2024001045,long method_BeanManagerImpl#addAdditionalQualifier Class<? extends Annotation>.java,long method,function,none,0
+1046,2024001046,long method_AGeometrySerializerDeserializer#serialize AGeometry|DataOutput.java,long method,function,none,0
+1047,2024001047,long method_VectorUDAFCount#reset AggregationBuffer.java,long method,function,none,0
+1048,2024001048,long method_BuildDefinitionsLabelProvider#getColumnImage Object|int.java,long method,function,none,0
+1049,2024001049,long method_Float4HLLFunction#output.java,long method,function,none,0
+1050,2024001050,long method_ApplicationInstance#activate.java,long method,function,none,0
+1051,2024001051,long method_createClazzInstance String.java,long method,function,none,0
+1052,2024001052,long method_ModelMenuCondition ModelMenuItem|Element.java,long method,function,none,0
+1053,2024001053,long method_AbstractDebugger#selectFile String.java,long method,function,none,0
+1054,2024001054,long method_InMemoryExpressionFactory#matches Value|Value|String|String|String.java,long method,function,none,0
+1055,2024001055,long method_JDBCTopicMessageStore#lookupSubscription String|String.java,long method,function,none,0
+1056,2024001056,long method_ImmutableMap#clear.java,long method,function,none,0
+1057,2024001057,long method_Not#hashCode.java,long method,function,none,0
+1058,2024001058,long method_ObjectsFeature#notifyActivated.java,long method,function,none,0
+1059,2024001059,long method_TFOOT#$onmouseover String.java,long method,function,none,0
+1060,2024001060,long method_HeatExchangerTester#checkEquality.java,long method,function,none,0
+1061,2024001061,long method_RegisterApplicationMasterRequestPBImpl#equals Object.java,long method,function,none,0
+1062,2024001062,long method_AllocateRequestPBImpl#initReleases.java,long method,function,none,0
+1063,2024001063,long method_PhotometricInterpreterCmyk#interpretPixel ImageBuilder|int[]|int|int.java,long method,function,none,0
+1064,2024001064,long method_TypeElementCatalog Iterable<TypeElement>|Configuration.java,long method,function,none,0
+1065,2024001065,long method_OperationImpl#eStaticClass.java,long method,function,none,0
+1066,2024001066,long method_RawBytesInputWriter#writeRawBytes Writable.java,long method,function,none,0
+1067,2024001067,long method_ASCTargetSettings#getDefaultBackgroundColor.java,long method,function,none,0
+1068,2024001068,long method_OpenHashSet#clear.java,long method,function,none,0
+1069,2024001069,long method_SubMonitorMsg#beginTask String|int.java,long method,function,none,0
+1070,2024001070,long method_SecurityContextTTLChecker#checkSecurityToken FedizResponse.java,long method,function,none,0
+1071,2024001071,long method_isParent ClassLoader|ClassLoader.java,long method,function,none,0
+1072,2024001072,long method_Range#compareTo Range.java,long method,function,none,0
+1073,2024001073,long method_KiWiSailConnection#evaluateInternal TupleExpr|Dataset|BindingSet|boolean.java,long method,function,none,0
+1074,2024001074,long method_getXmlRpcElementHashTable Element.java,long method,function,none,0
+1075,2024001075,long method_StatefulWindowedBoltExecutor#updateWindowState List<Tuple>|List<Tuple>.java,long method,function,none,0
+1076,2024001076,long method_ServicePickerFragment#onViewCreated View|Bundle.java,long method,function,none,0
+1077,2024001077,long method_XFlattenedColumnTable XFlattenedColumns|String.java,long method,function,none,0

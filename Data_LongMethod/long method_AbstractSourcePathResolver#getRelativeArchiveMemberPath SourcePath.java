@@ -1,0 +1,1 @@
+  @Override  public ImmutableSortedSet<Path> getAllAbsolutePaths(      Collection<? extends SourcePath> sourcePaths) {    return sourcePaths.stream()        .flatMap(sourcePath -> getAbsolutePath(sourcePath).stream())        .collect(ImmutableSortedSet.toImmutableSortedSet(Ordering.natural()));  }

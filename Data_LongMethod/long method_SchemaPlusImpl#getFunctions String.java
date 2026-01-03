@@ -1,0 +1,1 @@
+      final TableEntry entry = CalciteSchema.this.getTable(name, true);      return entry == null ? null : entry.getTable();    }

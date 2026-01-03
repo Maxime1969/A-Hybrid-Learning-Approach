@@ -1,0 +1,1 @@
+  @Override  public void removeMediaItems(int fromIndex, int toIndex) {    blockUntilConstructorFinished();    player.removeMediaItems(fromIndex, toIndex);  }

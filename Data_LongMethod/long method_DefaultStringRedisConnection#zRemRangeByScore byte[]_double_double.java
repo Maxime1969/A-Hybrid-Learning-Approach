@@ -1,0 +1,1 @@
+	@Override	public String hRandField(String key) {		return convertAndReturn(delegate.hRandField(serialize(key)), bytesToString);	}

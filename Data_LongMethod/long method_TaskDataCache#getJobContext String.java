@@ -1,0 +1,1 @@
+   */  public void updateJobContext(String resourceName, JobContext jobContext) {    if (!_contextMap.containsKey(resourceName) || jobContext.isJobContextModified()) {      updateContext(resourceName, jobContext.getRecord());    }  }

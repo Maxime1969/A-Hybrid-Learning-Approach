@@ -1,0 +1,1 @@
+   */  protected void updateStateAsync() {    Thread thread = new Thread(this::updateStateStore, "Router Heartbeat Async");    thread.setDaemon(true);    thread.start();  }  /**   * Update the state of the Router in the State Store.   */

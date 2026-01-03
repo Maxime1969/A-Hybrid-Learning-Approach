@@ -1,0 +1,1 @@
+	@Override	public String getName() {		return style.getName();	}	/*	 * (non-Javadoc)	 * 

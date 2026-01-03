@@ -1,0 +1,1 @@
+	public ParserRule getQualifiedClassifierRefRule() {		return getQualifiedClassifierRefAccess().getRule();	}
